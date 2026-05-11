@@ -5,7 +5,18 @@ __pycache__/
 
 # C extensions
 *.so
+# datasets
+data/raw/
+data/processed/
 
+# jupyter
+.ipynb_checkpoints/
+
+# virtual environment
+.venv/
+
+# python cache
+__pycache__/
 # Distribution / packaging
 .Python
 build/
