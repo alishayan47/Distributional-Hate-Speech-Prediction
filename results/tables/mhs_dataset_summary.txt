@@ -1,0 +1,178 @@
+MEASURING HATE SPEECH (MHS) DATASET SUMMARY
+============================================================
+
+Total Rows: 135556
+Total Columns: 143
+
+Unique Comments: 39565
+Unique Annotators: 7912
+Duplicate Full Rows: 0
+
+Survey Item Columns:
+- sentiment
+- respect
+- insult
+- humiliate
+- status
+- dehumanize
+- violence
+- genocide
+- attack_defend
+- hatespeech
+
+Annotator Gender Distribution:
+annotator_gender
+female               76370
+male                 57582
+non-binary             985
+prefer_not_to_say      500
+self-describe          119
+Name: count, dtype: int64
+
+Annotator Political Ideology Distribution:
+annotator_ideology
+liberal                   33812
+neutral                   23112
+slightly_liberal          21333
+extremely_liberal         17944
+conservative              15628
+slightly_conservative     15101
+extremely_conservative     4544
+no_opinion                 4055
+NaN                          27
+Name: count, dtype: int64
+
+Top 20 Columns with Missing Values:
+annotator_age         105
+annotator_income      103
+annotator_ideology     27
+annotator_educ         17
+comment_id              0
+annotator_id            0
+platform                0
+status                  0
+dehumanize              0
+violence                0
+genocide                0
+sentiment               0
+respect                 0
+insult                  0
+humiliate               0
+text                    0
+hate_speech_score       0
+hatespeech              0
+attack_defend           0
+infitms                 0
+dtype: int64
+
+Survey Item Statistics:
+
+sentiment
+count    135556.000000
+mean          2.954307
+std           1.231552
+min           0.000000
+25%           2.000000
+50%           3.000000
+75%           4.000000
+max           4.000000
+Name: sentiment, dtype: float64
+
+respect
+count    135556.000000
+mean          2.828875
+std           1.309548
+min           0.000000
+25%           2.000000
+50%           3.000000
+75%           4.000000
+max           4.000000
+Name: respect, dtype: float64
+
+insult
+count    135556.00000
+mean          2.56331
+std           1.38983
+min           0.00000
+25%           2.00000
+50%           3.00000
+75%           4.00000
+max           4.00000
+Name: insult, dtype: float64
+
+humiliate
+count    135556.000000
+mean          2.278638
+std           1.370876
+min           0.000000
+25%           1.000000
+50%           3.000000
+75%           3.000000
+max           4.000000
+Name: humiliate, dtype: float64
+
+status
+count    135556.000000
+mean          2.698575
+std           0.898500
+min           0.000000
+25%           2.000000
+50%           3.000000
+75%           3.000000
+max           4.000000
+Name: status, dtype: float64
+
+dehumanize
+count    135556.000000
+mean          1.846211
+std           1.402372
+min           0.000000
+25%           1.000000
+50%           2.000000
+75%           3.000000
+max           4.000000
+Name: dehumanize, dtype: float64
+
+violence
+count    135556.000000
+mean          1.052045
+std           1.345706
+min           0.000000
+25%           0.000000
+50%           0.000000
+75%           2.000000
+max           4.000000
+Name: violence, dtype: float64
+
+genocide
+count    135556.000000
+mean          0.678413
+std           1.179598
+min           0.000000
+25%           0.000000
+50%           0.000000
+75%           1.000000
+max           4.000000
+Name: genocide, dtype: float64
+
+attack_defend
+count    135556.000000
+mean          2.625992
+std           1.114960
+min           0.000000
+25%           2.000000
+50%           3.000000
+75%           3.000000
+max           4.000000
+Name: attack_defend, dtype: float64
+
+hatespeech
+count    135556.000000
+mean          0.744733
+std           0.932260
+min           0.000000
+25%           0.000000
+50%           0.000000
+75%           2.000000
+max           2.000000
+Name: hatespeech, dtype: float64
