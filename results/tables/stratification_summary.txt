@@ -77,10 +77,3 @@ women_only__high               2359
 women_only__low                6476
 women_only__medium             2539
 
-8. NOTES FOR SPLITTING
-----------------------------------------------------------------------
-- Split must be done by comment_id, not annotation rows.
-- All annotations for the same comment must remain in the same split.
-- The first proposed stratification variable is target_type + hatespeech_bucket.
-- If any strata are too small, merge hatespeech buckets or stratify only by target_type.
-- Recommended starting split: 70% train, 15% validation, 15% test.
