@@ -1,0 +1,46 @@
+SOFT LABEL AGGREGATION SUMMARY
+======================================================================
+
+Main target column: hatespeech
+Distribution classes: 0, 1, 2
+
+Dataset size:
+- Annotation rows: 49433
+- Unique comments: 19761
+- Final comment-level rows: 19761
+
+Split sizes:
+split
+train         13832
+test           2965
+validation     2964
+Name: count, dtype: int64
+
+Mean hatespeech distribution columns:
+hatespeech_0_prob    0.664258
+hatespeech_1_prob    0.082521
+hatespeech_2_prob    0.253220
+dtype: float64
+
+Hatespeech entropy summary:
+count    19761.000000
+mean         0.225016
+std          0.425825
+min         -0.000000
+25%          0.000000
+50%          0.000000
+75%          0.000000
+max          1.584963
+Name: hatespeech_entropy, dtype: float64
+
+Majority label distribution:
+hatespeech_majority_label
+0    14416
+1     1237
+2     4108
+Name: count, dtype: int64
+
+Subgroup distribution columns created:
+- Women annotator distribution columns: 3
+- Men annotator distribution columns: 3
+- Ideology groups: 8 groups x 3 columns each
