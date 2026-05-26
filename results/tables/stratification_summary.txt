@@ -62,18 +62,5 @@ min          0.000000      0.000000      0.000000        0.000000      0.000000 
 75%          4.000000      4.000000      3.500000        3.000000      3.000000         3.000000       1.250000       0.666667            3.000000         1.000000
 max          4.000000      4.000000      4.000000        4.000000      4.000000         4.000000       4.000000       4.000000            4.000000         2.000000
 
-7. PROPOSED STRATIFICATION LABEL COUNTS
-----------------------------------------------------------------------
-Stratification label = target_type + hatespeech_bucket
 
-stratify_label
-immigrant_only__high           1092
-immigrant_only__low            5526
-immigrant_only__medium         1385
-women_and_immigrant__high        82
-women_and_immigrant__low        231
-women_and_immigrant__medium      71
-women_only__high               2359
-women_only__low                6476
-women_only__medium             2539
 

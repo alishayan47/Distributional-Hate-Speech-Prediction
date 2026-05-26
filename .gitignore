@@ -14,7 +14,7 @@ data/processed/
 
 # virtual environment
 .venv/
-
+models/
 # python cache
 __pycache__/
 # Distribution / packaging

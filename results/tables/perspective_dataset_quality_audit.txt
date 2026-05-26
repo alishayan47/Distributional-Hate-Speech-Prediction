@@ -1,0 +1,175 @@
+PERSPECTIVE DATASET QUALITY AUDIT
+================================================================================
+
+1. PURPOSE
+--------------------------------------------------------------------------------
+This audit checks whether women/men subgroup distributions are reliable enough for perspective-aware modelling.
+The main concern is that subgroup distributions based on only one annotator are noisy and should not be treated as robust disagreement distributions.
+
+2. DATASET SIZE
+--------------------------------------------------------------------------------
+Women-targeted annotation rows: 27889
+Women-targeted unique comments: 11983
+
+3. ANNOTATION COUNT SUMMARY
+--------------------------------------------------------------------------------
+       total_annotations  women_annotations  men_annotations  non_binary_annotations  prefer_not_to_say_annotations  self_describe_annotations
+count       11983.000000       11983.000000     11983.000000            11983.000000                   11983.000000               11983.000000
+mean            2.327380           1.310440         0.989235                0.017441                       0.007678                   0.002587
+std            15.052045           8.755565         6.191982                0.180264                       0.092848                   0.050799
+min             1.000000           0.000000         0.000000                0.000000                       0.000000                   0.000000
+25%             1.000000           0.000000         0.000000                0.000000                       0.000000                   0.000000
+50%             2.000000           1.000000         1.000000                0.000000                       0.000000                   0.000000
+75%             2.000000           1.000000         1.000000                0.000000                       0.000000                   0.000000
+max           737.000000         422.000000       315.000000                9.000000                       3.000000                   1.000000
+
+4. THRESHOLD AUDIT
+--------------------------------------------------------------------------------
+ threshold  comments_with_total_at_least_threshold  comments_with_women_at_least_threshold  comments_with_men_at_least_threshold  comments_with_both_women_and_men_at_least_threshold  comments_with_either_women_or_men_at_least_threshold
+         1                                   11983                                    8630                                  7168                                                 3869                                                 11929
+         2                                    6394                                    2935                                  1900                                                  271                                                  4564
+         3                                    2790                                     641                                   343                                                   24                                                   960
+         4                                     739                                      97                                    51                                                   24                                                   124
+         5                                      46                                      27                                    22                                                   21                                                    28
+
+5. THRESHOLD AUDIT BY SPLIT
+--------------------------------------------------------------------------------
+     split  threshold  total_comments  women_at_least_threshold  men_at_least_threshold  both_women_and_men_at_least_threshold
+     train          1            8387                      6021                    5020                                   2694
+     train          2            8387                      2059                    1333                                    186
+     train          3            8387                       439                     237                                     15
+     train          4            8387                        65                      33                                     15
+     train          5            8387                        18                      13                                     13
+validation          1            1797                      1329                    1061                                    600
+validation          2            1797                       440                     251                                     32
+validation          3            1797                        98                      53                                      4
+validation          4            1797                        13                      11                                      4
+validation          5            1797                         4                       5                                      4
+      test          1            1799                      1280                    1087                                    575
+      test          2            1799                       436                     316                                     53
+      test          3            1799                       104                      53                                      5
+      test          4            1799                        19                       7                                      5
+      test          5            1799                         5                       4                                      4
+
+6. RELIABILITY CATEGORY SUMMARY
+--------------------------------------------------------------------------------
+     reliability_category  unique_comments
+weak_or_single_annotation             7419
+        usable_women_only             2664
+          usable_men_only             1629
+              usable_both              247
+              strong_both               24
+
+7. RELIABILITY CATEGORY BY SPLIT
+--------------------------------------------------------------------------------
+     split      reliability_category  unique_comments
+      test weak_or_single_annotation             1100
+      test         usable_women_only              383
+      test           usable_men_only              263
+      test               usable_both               48
+      test               strong_both                5
+     train weak_or_single_annotation             5181
+     train         usable_women_only             1873
+     train           usable_men_only             1147
+     train               usable_both              171
+     train               strong_both               15
+validation weak_or_single_annotation             1138
+validation         usable_women_only              408
+validation           usable_men_only              219
+validation               usable_both               28
+validation               strong_both                4
+
+usable_both = 247 comments
+
+Meaning only:
+
+247 comments
+
+have:
+
+at least 2 women annotators
+AND
+at least 2 men annotators
+
+IDEOLOGY PERSPECTIVE DATASET QUALITY AUDIT
+================================================================================
+
+1. PURPOSE
+--------------------------------------------------------------------------------
+This section checks whether ideology subgroup distributions are reliable enough for immigrant-targeted perspective-aware modelling.
+The main concern is whether each ideology group has enough annotations per comment to form stable subgroup distributions.
+
+2. DATASET SIZE
+--------------------------------------------------------------------------------
+Immigrant-targeted annotation rows: 22528
+Immigrant-targeted unique comments: 8621
+
+3. IDEOLOGY ANNOTATION COUNT SUMMARY
+--------------------------------------------------------------------------------
+       total_annotations  extremely_conservative_annotations  conservative_annotations  slightly_conservative_annotations  neutral_annotations  slightly_liberal_annotations  liberal_annotations  extremely_liberal_annotations  no_opinion_annotations
+count        8621.000000                         8621.000000               8621.000000                        8621.000000          8621.000000                   8621.000000          8621.000000                    8621.000000             8621.000000
+mean            2.613154                            0.088389                  0.290222                           0.289758             0.439624                      0.417817             0.656420                       0.357035                0.072961
+std            18.498833                            0.697913                  2.003531                           2.095133             3.147124                      2.995957             4.746379                       2.715792                0.590441
+min             1.000000                            0.000000                  0.000000                           0.000000             0.000000                      0.000000             0.000000                       0.000000                0.000000
+25%             1.000000                            0.000000                  0.000000                           0.000000             0.000000                      0.000000             0.000000                       0.000000                0.000000
+50%             1.000000                            0.000000                  0.000000                           0.000000             0.000000                      0.000000             0.000000                       0.000000                0.000000
+75%             2.000000                            0.000000                  0.000000                           0.000000             1.000000                      1.000000             1.000000                       0.000000                0.000000
+max           702.000000                           27.000000                 85.000000                          85.000000           119.000000                    118.000000           180.000000                     114.000000               25.000000
+
+4. IDEOLOGY THRESHOLD AUDIT
+--------------------------------------------------------------------------------
+ threshold  comments_with_total_at_least_threshold  extremely_conservative_at_least_threshold  conservative_at_least_threshold  slightly_conservative_at_least_threshold  neutral_at_least_threshold  slightly_liberal_at_least_threshold  liberal_at_least_threshold  extremely_liberal_at_least_threshold  no_opinion_at_least_threshold
+         1                                    8621                                        518                             1608                                      1598                        2325                                 2220                        3297                                  1909                            435
+         2                                    4257                                         43                              132                                       113                         286                                  275                         493                                   208                             35
+         3                                    1787                                         25                               36                                        37                          44                                   45                          77                                    41                             22
+         4                                     469                                         22                               32                                        34                          33                                   31                          39                                    31                             17
+         5                                      49                                         20                               31                                        32                          32                                   31                          36                                    27                             16
+
+5. IDEOLOGY THRESHOLD AUDIT BY SPLIT
+--------------------------------------------------------------------------------
+     split  threshold  total_comments  comments_with_total_at_least_threshold  extremely_conservative_at_least_threshold  conservative_at_least_threshold  slightly_conservative_at_least_threshold  neutral_at_least_threshold  slightly_liberal_at_least_threshold  liberal_at_least_threshold  extremely_liberal_at_least_threshold  no_opinion_at_least_threshold
+     train          1            6031                                    6031                                        344                             1124                                      1122                        1584                                 1595                        2320                                  1336                            306
+     train          2            6031                                    2974                                         26                               82                                        75                         201                                  196                         346                                   151                             23
+     train          3            6031                                    1246                                         19                               27                                        28                          31                                   32                          54                                    30                             16
+     train          4            6031                                     324                                         16                               23                                        26                          24                                   22                          26                                    23                             14
+     train          5            6031                                      34                                         15                               23                                        25                          23                                   22                          26                                    19                             13
+validation          1            1296                                    1296                                         93                              247                                       249                         364                                  302                         492                                   286                             59
+validation          2            1296                                     641                                         13                               29                                        21                          45                                   42                          75                                    31                              7
+validation          3            1296                                     271                                          4                                7                                         6                           8                                    8                          14                                     8                              4
+validation          4            1296                                      77                                          4                                7                                         6                           6                                    7                           8                                     6                              2
+validation          5            1296                                       8                                          3                                6                                         5                           6                                    7                           7                                     6                              2
+      test          1            1294                                    1294                                         81                              237                                       227                         377                                  323                         485                                   287                             70
+      test          2            1294                                     642                                          4                               21                                        17                          40                                   37                          72                                    26                              5
+      test          3            1294                                     270                                          2                                2                                         3                           5                                    5                           9                                     3                              2
+      test          4            1294                                      68                                          2                                2                                         2                           3                                    2                           5                                     2                              1
+      test          5            1294                                       7                                          2                                2                                         2                           3                                    2                           3                                     2                              1
+
+6. IDEOLOGY RELIABILITY CATEGORY SUMMARY
+--------------------------------------------------------------------------------
+  ideology_reliability_category  unique_comments
+      weak_or_single_annotation             7310
+   usable_single_ideology_group             1239
+strong_multiple_ideology_groups               38
+usable_multiple_ideology_groups               34
+
+7. IDEOLOGY RELIABILITY CATEGORY BY SPLIT
+--------------------------------------------------------------------------------
+     split   ideology_reliability_category  unique_comments
+      test       weak_or_single_annotation             1098
+      test    usable_single_ideology_group              186
+      test usable_multiple_ideology_groups                6
+      test strong_multiple_ideology_groups                4
+     train       weak_or_single_annotation             5131
+     train    usable_single_ideology_group              850
+     train strong_multiple_ideology_groups               26
+     train usable_multiple_ideology_groups               24
+validation       weak_or_single_annotation             1081
+validation    usable_single_ideology_group              203
+validation strong_multiple_ideology_groups                8
+validation usable_multiple_ideology_groups                4
+
+8. INTERPRETATION NOTES
+--------------------------------------------------------------------------------
+If most ideology subgroup distributions are based on only one annotator, ideology-conditioned modelling will be noisy.
+A threshold of at least 2 annotations per ideology group is a reasonable minimum for subgroup distribution training.
+If very few comments contain multiple ideology groups with at least 2 annotations each, direct ideology-perspective prediction may not be feasible.

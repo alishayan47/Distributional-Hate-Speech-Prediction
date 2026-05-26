@@ -1,0 +1,74 @@
+ROBERTA GLOBAL MULTIDIMENSIONAL SOFT-LABEL MODEL RESULTS
+================================================================================
+
+1. RUN INFORMATION
+--------------------------------------------------------------------------------
+Run timestamp: 2026-05-26 12:45:47
+Model name: roberta-base
+Output directory: ../models/roberta_global_multidimensional_soft_labels_1
+Best validation macro JS: 0.20797250270843506
+Epochs completed: 4
+
+2. MODEL OBJECTIVE
+--------------------------------------------------------------------------------
+Task: global multidimensional soft-label prediction
+Architecture: shared RoBERTa encoder with one distribution head per MHS dimension
+Loss: mean KL divergence across task heads
+
+Tasks:
+- hatespeech: labels [0, 1, 2]
+- insult: labels [0, 1, 2, 3, 4]
+- dehumanize: labels [0, 1, 2, 3, 4]
+- violence: labels [0, 1, 2, 3, 4]
+- genocide: labels [0, 1, 2, 3, 4]
+
+3. DATASET SIZES
+--------------------------------------------------------------------------------
+Train rows: 13832
+Validation rows: 2964
+Test rows: 2965
+
+4. TRAINING SETUP
+--------------------------------------------------------------------------------
+Max sequence length: 128
+Train batch size: 8
+Eval batch size: 16
+Max epochs: 6
+Learning rate: 1e-05
+Weight decay: 0.05
+Early stopping patience: 1
+Device: cuda
+
+5. TRAINING HISTORY
+--------------------------------------------------------------------------------
+ epoch  train_loss  val_macro_js  val_macro_kl  val_macro_accuracy  val_macro_entropy_correlation  train_hatespeech_loss  train_insult_loss  train_dehumanize_loss  train_violence_loss  train_genocide_loss
+     1    0.870045      0.215140      0.810967            0.594534                       0.177987               0.556030           1.045473               1.154267             0.929079             0.665380
+     2    0.797595      0.212233      0.808414            0.593252                       0.173339               0.499785           0.951782               1.093358             0.843165             0.599884
+     3    0.755484      0.207973      0.829152            0.609042                       0.174803               0.468034           0.895295               1.051339             0.795789             0.566966
+     4    0.715306      0.208982      0.822082            0.598516                       0.167935               0.443865           0.842407               1.010276             0.747055             0.532927
+
+6. FINAL VALIDATION METRICS
+--------------------------------------------------------------------------------
+         task  eval_loss  kl_divergence  js_divergence  hard_accuracy  entropy_correlation
+   hatespeech   0.534381       0.531763       0.130153       0.767544             0.279912
+       insult   1.004520       1.004507       0.257239       0.464912             0.091681
+   dehumanize   1.112000       1.112669       0.290269       0.396424             0.126028
+     violence   0.867248       0.863035       0.214973       0.618084             0.201300
+     genocide   0.635479       0.633787       0.147229       0.798246             0.175095
+MACRO_AVERAGE   0.830726       0.829152       0.207973       0.609042             0.174803
+
+7. FINAL TEST METRICS
+--------------------------------------------------------------------------------
+         task  eval_loss  kl_divergence  js_divergence  hard_accuracy  entropy_correlation
+   hatespeech   0.570062       0.568457       0.137230       0.754806             0.252359
+       insult   0.963113       0.963836       0.248901       0.476560             0.093876
+   dehumanize   1.130585       1.129273       0.292893       0.395278             0.138657
+     violence   0.883457       0.885017       0.219791       0.607420             0.174365
+     genocide   0.632549       0.634341       0.144865       0.806071             0.176002
+MACRO_AVERAGE   0.835953       0.836185       0.208736       0.608027             0.167052
+
+8. NOTES
+--------------------------------------------------------------------------------
+This model introduces multidimensionality without relying on sparse subgroup-specific distributions.
+All task targets are global annotator distributions over selected MHS survey dimensions.
+Validation metrics are printed after every epoch and the best model is selected by validation macro JS divergence.

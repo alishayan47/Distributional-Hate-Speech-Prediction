@@ -1,0 +1,131 @@
+ROBERTA MULTIDIMENSIONAL AUXILIARY MODEL RESULTS
+================================================================================
+
+1. RUN INFORMATION
+--------------------------------------------------------------------------------
+Run timestamp: 2026-05-21 14:00:55
+Model name: roberta-base
+Output directory: ../models/roberta_multidimensional_auxiliary_1
+Global training steps: 13832
+
+2. MODEL OBJECTIVE
+--------------------------------------------------------------------------------
+Main task: 3-class hatespeech soft-label distribution prediction
+Auxiliary task: regression over selected MHS harmfulness dimensions
+Auxiliary loss weight lambda: 0.3
+
+Distribution target columns:
+- hatespeech_0_prob
+- hatespeech_1_prob
+- hatespeech_2_prob
+
+Auxiliary regression columns:
+- mean_insult
+- mean_dehumanize
+- mean_violence
+- mean_genocide
+
+3. CUDA / HARDWARE
+--------------------------------------------------------------------------------
+CUDA available: True
+GPU: NVIDIA GeForce RTX 4060 Laptop GPU
+CUDA version: 12.1
+
+4. DATASET SIZES
+--------------------------------------------------------------------------------
+Train rows: 13832
+Validation rows: 2964
+Test rows: 2965
+
+5. TRAINING SETUP
+--------------------------------------------------------------------------------
+Max sequence length: 128
+Train batch size: 8
+Eval batch size: 16
+Epochs: 8
+Learning rate: 2e-05
+Weight decay: 0.01
+FP16: True
+
+6. FINAL VALIDATION RESULTS
+--------------------------------------------------------------------------------
+kl_divergence: 0.9234347939491272
+js_divergence: 0.1453741192817688
+hard_accuracy: 0.7432523616734144
+entropy_correlation: 0.2136811164262195
+aux_mse: 0.04793446511030197
+aux_mae: 0.164974644780159
+mean_insult_mse: 0.04912247881293297
+mean_dehumanize_mse: 0.06077095493674278
+mean_violence_mse: 0.05010855197906494
+mean_genocide_mse: 0.031735870987176895
+mean_insult_mae: 0.17170360684394836
+mean_dehumanize_mae: 0.19886359572410583
+mean_violence_mae: 0.16817675530910492
+mean_genocide_mae: 0.12115464359521866
+
+7. FINAL TEST RESULTS
+--------------------------------------------------------------------------------
+kl_divergence: 0.9768348932266235
+js_divergence: 0.15426461398601532
+hard_accuracy: 0.7258010118043845
+entropy_correlation: 0.21455632864623006
+aux_mse: 0.051734719425439835
+aux_mae: 0.17023985087871552
+mean_insult_mse: 0.04862019792199135
+mean_dehumanize_mse: 0.06513214111328125
+mean_violence_mse: 0.05761213228106499
+mean_genocide_mse: 0.03557440638542175
+mean_insult_mae: 0.170355886220932
+mean_dehumanize_mae: 0.2047545313835144
+mean_violence_mae: 0.18012230098247528
+mean_genocide_mae: 0.12572674453258514
+
+8. TRAINING HISTORY SUMMARY
+--------------------------------------------------------------------------------
+Full training history saved to: ../results/tables/roberta_multidimensional_auxiliary_1_training_history.csv
+Total log entries: 147
+Training loss log entries: 138
+Evaluation log entries: 8
+
+Training loss summary:
+count    138.000000
+mean       0.358298
+std        0.135184
+min        0.159300
+25%        0.239450
+50%        0.330550
+75%        0.473175
+max        0.690300
+
+First 5 training loss logs:
+   epoch  step   loss
+0.057837   100 0.6903
+0.115674   200 0.6254
+0.173511   300 0.5805
+0.231348   400 0.6165
+0.289184   500 0.6187
+
+Last 5 training loss logs:
+   epoch  step   loss
+7.750145 13400 0.1764
+7.807981 13500 0.1959
+7.865818 13600 0.1726
+7.923655 13700 0.1684
+7.981492 13800 0.2042
+
+Evaluation logs:
+ loss  grad_norm  learning_rate  epoch  step  eval_loss  eval_runtime  eval_samples_per_second  eval_steps_per_second  train_runtime  train_samples_per_second  train_steps_per_second  total_flos  train_loss
+  NaN        NaN            NaN    1.0  1729   0.529270        3.5571                  833.270                 52.290            NaN                       NaN                     NaN         NaN         NaN
+  NaN        NaN            NaN    2.0  3458   0.570132        3.7289                  794.863                 49.880            NaN                       NaN                     NaN         NaN         NaN
+  NaN        NaN            NaN    3.0  5187   0.595377        3.7678                  786.666                 49.366            NaN                       NaN                     NaN         NaN         NaN
+  NaN        NaN            NaN    4.0  6916   0.667985        3.9474                  750.867                 47.119            NaN                       NaN                     NaN         NaN         NaN
+  NaN        NaN            NaN    5.0  8645   0.745187        3.8230                  775.310                 48.653            NaN                       NaN                     NaN         NaN         NaN
+  NaN        NaN            NaN    6.0 10374   0.851079        3.7492                  790.563                 49.610            NaN                       NaN                     NaN         NaN         NaN
+  NaN        NaN            NaN    7.0 12103   0.879448        3.8543                  769.011                 48.258            NaN                       NaN                     NaN         NaN         NaN
+  NaN        NaN            NaN    8.0 13832   0.937806        3.8570                  768.465                 48.223            NaN                       NaN                     NaN         NaN         NaN
+
+Notes:
+adding auxiliary regression hurt the main distributional task
+the model CAN learn the auxiliary dimensions
+the auxiliary task interfered with the main soft-label distribution task
