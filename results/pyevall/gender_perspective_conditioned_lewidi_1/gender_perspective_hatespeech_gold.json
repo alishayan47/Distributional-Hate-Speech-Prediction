@@ -1,0 +1,11018 @@
+[
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "63_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "108_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "201_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "206_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "209_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.3333333432674408,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "253_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "280_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "285_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "337_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "345_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "404_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "452_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "459_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "542_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "542_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "596_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "625_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "726_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "726_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "836_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "854_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "860_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "871_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "902_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "905_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "957_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1003_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1026_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1149_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1173_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1217_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1224_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1300_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1322_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1323_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1323_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1331_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1350_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1359_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1500_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1572_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1584_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1693_men",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1868_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "1996_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2001_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2261_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2277_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2319_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2389_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2419_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2429_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2444_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2446_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2511_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2548_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2571_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2571_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2574_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2599_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2668_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2769_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2770_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2810_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2842_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "2874_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.3333333432674408,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3030_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3031_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3099_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3121_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3157_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3162_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3162_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3216_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3231_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3242_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3243_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3257_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3282_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3310_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3310_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3340_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3355_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3382_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3397_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.3333333432674408,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3406_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3529_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3670_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3696_men",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3753_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3753_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3765_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3768_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3815_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3818_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "3968_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4000_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4057_women",
+    "value": {
+      "0": 0.25,
+      "1": 0.25,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4065_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4076_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4151_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4178_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4184_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4202_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4314_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4319_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4418_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4639_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4650_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4739_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4740_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4779_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4780_women",
+    "value": {
+      "0": 0.75,
+      "1": 0.25,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4814_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4824_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4839_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4867_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "4908_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5064_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5181_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5235_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5276_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5387_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5410_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5453_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5466_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5466_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5536_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5604_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5684_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5705_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5795_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5802_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5807_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5836_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5840_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5851_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5867_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "5983_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6012_men",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.3333333432674408,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6061_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6088_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6099_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6152_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6281_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6302_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6303_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6410_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6410_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6459_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6490_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6558_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6739_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6748_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6948_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6953_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6953_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6961_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "6967_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7048_men",
+    "value": {
+      "0": 0.0,
+      "1": 1.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7074_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7288_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7309_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7312_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7340_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7357_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7357_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7364_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7398_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7428_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7465_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7492_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7496_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7516_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7593_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7608_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7640_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7649_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7732_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7741_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7903_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7919_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7941_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7946_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7979_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "7979_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8015_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8050_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8052_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8131_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8190_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8197_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8223_men",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8230_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8265_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8316_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8333_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8404_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8423_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.6666666865348816,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8462_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8527_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8540_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8701_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8725_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8916_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "8989_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9028_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9057_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9135_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9203_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9218_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9277_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9399_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9407_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9429_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9463_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9465_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9486_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9510_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9526_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9566_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9617_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9640_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9705_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9738_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9748_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9748_prefer_not_to_say",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9777_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9833_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9844_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9914_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9924_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9942_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9950_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9959_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "9993_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10018_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10099_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10162_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10266_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10351_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10461_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10461_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10644_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10655_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10662_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10662_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10691_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10692_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10751_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10785_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10824_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10873_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10876_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10906_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10945_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10947_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "10981_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11006_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11019_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11044_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11045_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11191_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11209_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11260_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11311_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11311_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11326_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11342_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11348_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11351_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11359_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11361_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11443_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11475_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11475_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11509_men",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11519_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11622_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11685_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11685_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11774_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11781_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11797_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11817_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.3333333432674408,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11933_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "11994_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12026_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12026_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12063_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12078_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12085_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12192_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12243_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12253_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12253_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12288_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12292_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12331_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12342_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12348_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12368_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12376_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12379_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12538_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12587_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12714_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.3333333432674408,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12823_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12828_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12939_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12981_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "12994_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13006_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13071_women",
+    "value": {
+      "0": 0.25,
+      "1": 0.25,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13072_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13126_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13173_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13206_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13339_women",
+    "value": {
+      "0": 0.25,
+      "1": 0.25,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13353_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13358_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13431_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13467_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13470_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13496_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13646_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13695_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13793_men",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.3333333432674408,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13836_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13845_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13920_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13920_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "13921_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14018_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14055_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14077_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14163_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14188_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14303_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14382_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14549_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14554_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14556_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14609_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14626_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14627_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14766_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14802_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14802_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14803_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14828_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14840_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14844_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14855_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14866_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14868_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14894_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14894_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14899_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14934_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14948_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "14952_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15029_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.25,
+      "2": 0.75
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15110_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.3333333432674408,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15114_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15115_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15175_women",
+    "value": {
+      "0": 0.25,
+      "1": 0.25,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15237_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.3333333432674408,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15251_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15256_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15277_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15283_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15337_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15349_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15378_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.3333333432674408,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15414_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15448_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15480_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15585_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15694_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15885_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15886_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "15886_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16024_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16040_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16107_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16156_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16156_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16185_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16203_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16241_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16338_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16352_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16358_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16390_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16547_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16723_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16732_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16761_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16943_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "16946_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17000_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17068_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17068_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17103_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17243_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.3333333432674408,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17281_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17295_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17349_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17359_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17407_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17483_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17526_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17612_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.3333333432674408,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17651_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17658_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17725_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17766_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17934_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "17936_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "18073_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "18180_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "18251_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "18308_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "18432_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "18461_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "18516_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "18653_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "18727_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "18790_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "18886_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19091_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19098_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19103_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19326_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19349_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19415_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19444_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19493_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19555_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19601_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19617_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19625_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19671_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19711_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19715_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19751_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19808_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19900_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19965_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19971_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "19989_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20012_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20016_men",
+    "value": {
+      "0": 0.09420289844274521,
+      "1": 0.036231882870197296,
+      "2": 0.8695651888847351
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20016_non_binary",
+    "value": {
+      "0": 0.0,
+      "1": 0.1666666716337204,
+      "2": 0.8333333134651184
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20016_prefer_not_to_say",
+    "value": {
+      "0": 0.20000000298023224,
+      "1": 0.20000000298023224,
+      "2": 0.6000000238418579
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20016_women",
+    "value": {
+      "0": 0.07183907926082611,
+      "1": 0.0517241396009922,
+      "2": 0.8764367699623108
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20032_men",
+    "value": {
+      "0": 0.15306122601032257,
+      "1": 0.06122449040412903,
+      "2": 0.7857142686843872
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20032_women",
+    "value": {
+      "0": 0.18656715750694275,
+      "1": 0.0746268630027771,
+      "2": 0.7388059496879578
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20033_men",
+    "value": {
+      "0": 0.07999999821186066,
+      "1": 0.0,
+      "2": 0.9200000166893005
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20033_women",
+    "value": {
+      "0": 0.03333333507180214,
+      "1": 0.0,
+      "2": 0.9666666388511658
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20052_men",
+    "value": {
+      "0": 0.875,
+      "1": 0.0,
+      "2": 0.125
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20052_women",
+    "value": {
+      "0": 0.800000011920929,
+      "1": 0.20000000298023224,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20054_men",
+    "value": {
+      "0": 0.945652186870575,
+      "1": 0.021739130839705467,
+      "2": 0.032608695328235626
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20054_non_binary",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20054_prefer_not_to_say",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20054_women",
+    "value": {
+      "0": 0.8634812235832214,
+      "1": 0.05802047625184059,
+      "2": 0.07849829643964767
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20055_men",
+    "value": {
+      "0": 0.9853479862213135,
+      "1": 0.007326007355004549,
+      "2": 0.007326007355004549
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20055_non_binary",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20055_women",
+    "value": {
+      "0": 0.9952718615531921,
+      "1": 0.004728132393211126,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20060_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20062_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20062_non_binary",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20062_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20100_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20188_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20201_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20216_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20216_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20221_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20222_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20355_women",
+    "value": {
+      "0": 0.75,
+      "1": 0.0,
+      "2": 0.25
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20368_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20465_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20499_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20546_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20596_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20601_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20620_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20684_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20686_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20689_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20753_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "20769_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21024_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21029_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21056_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21065_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21069_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21083_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21129_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21142_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21197_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21197_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21198_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21326_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21328_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21361_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21384_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.3333333432674408,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21385_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21418_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21466_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21473_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21530_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21591_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21687_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21693_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21804_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.3333333432674408,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21829_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "21866_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "22032_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "22091_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "22091_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "22107_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "22123_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "22162_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "22181_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "22608_women",
+    "value": {
+      "0": 0.75,
+      "1": 0.25,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "22645_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "22694_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "22729_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "22782_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "22868_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "22960_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "22967_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23009_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23015_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23079_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23081_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23149_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23236_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23241_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23252_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23429_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23443_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23510_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23535_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.3333333432674408,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23597_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23597_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23607_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23679_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23717_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23719_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23725_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23792_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23811_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23857_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "23904_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24051_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24114_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24122_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24134_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24145_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24203_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24208_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24261_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24270_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24283_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24361_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24383_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24430_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24462_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24579_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24696_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24702_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24721_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24799_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24804_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24807_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24887_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24891_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "24962_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25008_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25027_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25073_men",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25122_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25137_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25143_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25249_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25295_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25323_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25340_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25368_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25374_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25440_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25481_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25575_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25576_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25591_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25681_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25681_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25785_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25896_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25932_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25937_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25961_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "25979_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "26086_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "26095_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "26222_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "26396_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "26516_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.3333333432674408,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "26556_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "26567_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "26575_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "26668_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "26743_men",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "26745_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "26745_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "26807_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "26807_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "26873_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "26905_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27194_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27257_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27272_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27403_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27550_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27571_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27610_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27613_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27637_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27759_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27793_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27814_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27814_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27878_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27948_women",
+    "value": {
+      "0": 0.75,
+      "1": 0.0,
+      "2": 0.25
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27961_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "27961_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "28000_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "28031_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "28105_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "28119_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "28156_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "28174_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "28250_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "28348_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "28449_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "28465_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "28691_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "28712_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "28712_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.3333333432674408,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "28734_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "28838_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "28942_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29023_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29073_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29165_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29194_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29211_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29211_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29296_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29345_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29479_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29554_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29572_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29604_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29680_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29691_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29712_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29766_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29785_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29866_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29867_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29871_men",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.3333333432674408,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29892_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29896_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29938_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29957_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "29992_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30009_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30044_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30052_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30121_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30259_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30265_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30267_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30322_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30322_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30342_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30354_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30399_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30485_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30489_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30543_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30571_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30579_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30630_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30728_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30728_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30731_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30784_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30829_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30849_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "30956_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31016_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31109_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31324_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31343_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31432_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31490_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31576_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31615_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31656_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31679_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31679_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31729_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31729_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31731_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31740_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31766_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31770_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31780_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31818_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31848_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31848_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31859_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31874_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31899_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31913_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "31933_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32010_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32069_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32070_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32238_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32280_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.3333333432674408,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32345_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32366_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32366_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32505_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32537_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32539_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32589_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32589_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32649_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32683_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32694_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32694_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32732_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32732_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32777_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32801_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32864_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32875_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32893_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32900_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32922_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "32931_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33010_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33012_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33065_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33066_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33147_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33203_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33233_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33240_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33266_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33316_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33415_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33437_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33461_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33491_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33505_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33568_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33590_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33648_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33712_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33753_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33754_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33782_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33782_women",
+    "value": {
+      "0": 0.0,
+      "1": 1.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33785_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33789_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33795_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33887_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33908_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33959_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "33974_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34048_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34108_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34108_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34140_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34300_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34398_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34429_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34461_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34509_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34526_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34605_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34637_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34709_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34722_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34855_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34863_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "34984_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35007_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35007_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35079_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35090_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35133_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35250_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35429_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35489_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.25,
+      "2": 0.75
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35610_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35627_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35627_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35678_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35680_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35749_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35852_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35873_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35896_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "35994_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36042_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.3333333432674408,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36127_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36144_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36244_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36248_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36264_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36315_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36320_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36391_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36451_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36465_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36477_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36551_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36562_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36650_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36673_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36686_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36692_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36717_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36735_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36742_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36836_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36846_men",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36932_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "36999_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37186_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37196_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37246_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37336_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37380_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37380_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37431_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37469_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37479_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37534_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37548_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37629_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37680_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37797_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37836_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37876_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37883_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37902_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "37948_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38008_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38128_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38130_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38162_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38177_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38200_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38205_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38258_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38280_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38330_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38372_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38421_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38441_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38462_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38611_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38628_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38630_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38767_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38789_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38802_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38813_men",
+    "value": {
+      "0": 0.0,
+      "1": 1.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38842_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38859_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38943_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38969_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "38989_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39021_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39040_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39149_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39256_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39284_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39315_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39336_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39337_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39393_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39418_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39495_men",
+    "value": {
+      "0": 0.0,
+      "1": 1.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39593_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39593_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39610_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39626_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39652_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39694_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39719_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39724_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39741_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39741_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39742_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39778_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39801_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39854_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39890_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "39904_men",
+    "value": {
+      "0": 0.0,
+      "1": 1.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40008_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40012_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40050_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40084_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40106_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40123_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40208_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40210_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40213_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40264_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40284_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40290_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40312_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40353_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40394_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40431_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40436_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40436_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40470_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40474_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40517_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40580_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40588_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40604_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40611_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40647_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40681_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40783_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40783_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40962_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40962_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "40999_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41053_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41054_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41088_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41090_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41098_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41111_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41124_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41124_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41147_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41181_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41270_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41306_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41306_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41308_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41317_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41364_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41373_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41374_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41543_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41608_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41608_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41642_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41649_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41658_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41660_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41668_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41680_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41680_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41806_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41812_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41842_men",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41851_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41854_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41937_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "41999_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42015_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42023_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42139_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42177_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42187_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42202_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42209_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42218_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42228_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42234_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42259_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42278_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42283_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42286_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42303_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42303_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42348_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42348_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42388_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42471_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42558_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42683_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42695_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42706_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42709_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42717_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42769_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42791_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42797_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42822_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42842_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42919_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42935_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42975_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "42983_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43074_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43119_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43190_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43271_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43330_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43372_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43600_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43612_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43614_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43618_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43627_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43671_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43671_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43703_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43708_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43749_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43774_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43808_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43821_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43840_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43843_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43863_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43892_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43944_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43958_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43961_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43964_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "43964_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44011_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44048_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44119_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44168_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44195_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44199_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44236_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44237_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44244_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44257_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44260_women",
+    "value": {
+      "0": 0.0,
+      "1": 1.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44273_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44397_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44400_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44494_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44531_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44595_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44620_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44632_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44674_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44685_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44809_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44814_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44840_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44852_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44867_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44904_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44946_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "44984_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45000_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45033_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45061_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45067_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45099_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45143_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45185_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45208_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45236_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45258_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45319_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45475_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45501_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45588_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45588_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45589_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45600_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45606_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45653_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45728_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45740_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45813_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45829_men",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.3333333432674408,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45853_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45871_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45872_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45879_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45879_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45886_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45886_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45926_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45936_men",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45977_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45983_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "45986_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46034_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46187_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46224_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46272_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46278_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46315_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46376_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46406_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46420_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46450_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46499_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.3333333432674408,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46578_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46588_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46759_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46790_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46820_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46835_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46873_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46900_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46925_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "46978_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.25,
+      "2": 0.25
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47020_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47041_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47104_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47124_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47181_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47204_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47204_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47241_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47255_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47255_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47319_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47336_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47400_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47565_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47565_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47587_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47591_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47634_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47678_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47709_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47778_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47793_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47822_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47835_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47844_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47857_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "47863_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48024_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48030_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48047_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48141_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48143_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48149_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48198_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48218_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48259_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48269_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48312_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48349_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48394_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48399_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48415_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48484_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48533_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48651_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48662_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48664_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48687_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48716_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48724_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48768_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48874_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48893_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48924_women",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.3333333432674408,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48934_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48952_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48979_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "48994_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49038_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49056_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49071_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49103_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49107_women",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49176_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49194_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49207_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49262_men",
+    "value": {
+      "0": 0.6666666865348816,
+      "1": 0.0,
+      "2": 0.3333333432674408
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49268_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49294_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49324_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49325_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49332_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49371_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49392_men",
+    "value": {
+      "0": 0.3333333432674408,
+      "1": 0.0,
+      "2": 0.6666666865348816
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49394_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49408_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49416_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49585_women",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49638_men",
+    "value": {
+      "0": 0.5,
+      "1": 0.0,
+      "2": 0.5
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49700_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49740_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49755_women",
+    "value": {
+      "0": 0.75,
+      "1": 0.0,
+      "2": 0.25
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49777_men",
+    "value": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 1.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49882_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49907_men",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49907_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "49983_women",
+    "value": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 0.0
+    }
+  },
+  {
+    "test_case": "gender_perspective_hatespeech",
+    "id": "50051_women",
+    "value": {
+      "0": 0.5,
+      "1": 0.5,
+      "2": 0.0
+    }
+  }
+]

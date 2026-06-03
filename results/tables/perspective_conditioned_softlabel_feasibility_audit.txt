@@ -1,0 +1,147 @@
+PERSPECTIVE-CONDITIONED SOFT-LABEL FEASIBILITY AUDIT
+==========================================================================================
+
+1. DATASET SUMMARY
+------------------------------------------------------------------------------------------
+Annotation rows: 49433
+Unique comments: 19761
+Unique annotators: 7851
+
+2. ANNOTATION-LEVEL DEMOGRAPHIC COUNTS
+------------------------------------------------------------------------------------------
+Gender counts:
+     gender_group  annotation_rows
+            women            27716
+              men            21112
+       non_binary              362
+prefer_not_to_say              189
+    self_describe               54
+
+Ideology counts:
+        ideology_group  annotation_rows
+               liberal            12437
+               neutral             8222
+      slightly_liberal             7844
+     extremely_liberal             6667
+          conservative             5772
+ slightly_conservative             5418
+extremely_conservative             1655
+            no_opinion             1401
+               unknown               17
+
+3. PERSPECTIVE CAPACITY
+------------------------------------------------------------------------------------------
+perspective_type  min_annotations  training_examples  unique_comments  unique_perspectives
+          gender                2               8089             7582                    4
+          gender                3               1689             1612                    4
+        ideology                2               3668             3252                    8
+        ideology                3                556              242                    8
+
+4. GENDER MIN 2 EXAMPLES BY PERSPECTIVE
+------------------------------------------------------------------------------------------
+      perspective  examples  unique_comments  mean_annotations  median_annotations  mean_entropy  zero_entropy_percent
+            women      4850             4850          3.785361                 2.0      0.381104                 61.57
+              men      3200             3200          3.879688                 2.0      0.362966                 63.22
+       non_binary        28               28          3.607143                 3.0      0.481488                 46.43
+prefer_not_to_say        11               11          3.181818                 2.0      0.306450                 72.73
+
+5. GENDER MIN 3 EXAMPLES BY PERSPECTIVE
+------------------------------------------------------------------------------------------
+      perspective  examples  unique_comments  mean_annotations  median_annotations  mean_entropy  zero_entropy_percent
+            women      1073             1073         10.069897                 3.0      0.518502                 46.69
+              men       594              594         12.126263                 3.0      0.470523                 50.34
+       non_binary        17               17          4.647059                 4.0      0.557745                 35.29
+prefer_not_to_say         5                5          4.600000                 5.0      0.474190                 60.00
+
+6. IDEOLOGY MIN 2 EXAMPLES BY PERSPECTIVE
+------------------------------------------------------------------------------------------
+           perspective  examples  unique_comments  mean_annotations  median_annotations  mean_entropy  zero_entropy_percent
+               liberal      1263             1263          4.656374                 2.0      0.397215                 59.38
+               neutral       655              655          5.267176                 2.0      0.375651                 61.22
+      slightly_liberal       604              604          5.360927                 2.0      0.335077                 65.07
+     extremely_liberal       418              418          6.129187                 2.0      0.345541                 64.59
+          conservative       336              336          6.276786                 2.0      0.391234                 59.23
+ slightly_conservative       261              261          7.245211                 2.0      0.382189                 59.00
+extremely_conservative        74               74          6.783784                 3.0      0.382700                 55.41
+            no_opinion        57               57          7.087719                 4.0      0.407062                 50.88
+
+7. IDEOLOGY MIN 3 EXAMPLES BY PERSPECTIVE
+------------------------------------------------------------------------------------------
+           perspective  examples  unique_comments  mean_annotations  median_annotations  mean_entropy  zero_entropy_percent
+               liberal       144              144         25.298611                 3.0      0.511680                 40.97
+      slightly_liberal        83               83         26.457831                 7.0      0.558870                 33.73
+               neutral        75               75         30.533333                10.0      0.560688                 33.33
+     extremely_liberal        63               63         29.396825                14.0      0.435495                 50.79
+          conservative        57               57         27.210526                26.0      0.569379                 33.33
+ slightly_conservative        57               57         26.017544                23.0      0.644759                 22.81
+extremely_conservative        41               41         10.634146                 9.0      0.471214                 41.46
+            no_opinion        36               36         10.055556                 9.0      0.477848                 38.89
+
+8. PERSPECTIVE SOFT-LABEL QUALITY
+------------------------------------------------------------------------------------------
+      dataset  examples  unique_comments  unique_perspectives  mean_annotations_per_example  median_annotations_per_example  mean_entropy  median_entropy  zero_entropy_percent  nonzero_entropy_percent  unique_distribution_patterns  top_pattern_percent
+  gender_min2      8089             7582                    4                      3.821239                             2.0      0.374174        0.000000                 62.18                    37.82                           119                50.36
+  gender_min3      1689             1612                    4                     10.722321                             3.0      0.501892        0.426229                 47.90                    52.10                           119                40.79
+ideology_min2      3668             3252                    8                      5.462650                             2.0      0.375486        0.000000                 60.99                    39.01                           237                48.58
+ideology_min3       556              242                    8                     24.843525                             8.0      0.531087        0.538545                 37.23                    62.77                           234                25.00
+
+9. SPLIT SUMMARY
+------------------------------------------------------------------------------------------
+     split  examples  unique_comments  mean_annotation_count  mean_entropy  zero_entropy_percent  unique_perspectives       dataset
+      test      1224             1140               4.035131      0.376000                 62.09                    4   gender_min2
+     train      5672             5316               3.783850      0.374394                 62.17                    4   gender_min2
+validation      1193             1126               3.779547      0.371255                 62.36                    3   gender_min2
+      test       260              249              11.580769      0.516244                 46.92                    4   gender_min3
+     train      1168             1115              10.662671      0.502197                 47.86                    4   gender_min3
+validation       261              248              10.134100      0.486233                 49.04                    3   gender_min3
+      test       547              490               6.012797      0.353236                 62.71                    8 ideology_min2
+     train      2552             2261               5.410266      0.378716                 60.78                    8 ideology_min2
+validation       569              501               5.168717      0.382391                 60.28                    8 ideology_min2
+      test        80               37              29.437500      0.540252                 32.50                    8 ideology_min3
+     train       385              165              24.605195      0.525931                 38.44                    8 ideology_min3
+validation        91               40              21.813187      0.544842                 36.26                    8 ideology_min3
+
+10. TOP DISTRIBUTION PATTERNS
+------------------------------------------------------------------------------------------
+      dataset  distribution_pattern  examples  percent
+  gender_min2       (1.0, 0.0, 0.0)      4074    50.36
+  gender_min2       (0.5, 0.0, 0.5)      1325    16.38
+  gender_min2       (0.0, 0.0, 1.0)       904    11.18
+  gender_min2       (0.5, 0.5, 0.0)       551     6.81
+  gender_min2       (0.0, 0.5, 0.5)       322     3.98
+  gender_min2   (0.667, 0.0, 0.333)       222     2.74
+  gender_min2   (0.333, 0.0, 0.667)       190     2.35
+  gender_min2   (0.667, 0.333, 0.0)       123     1.52
+  gender_min2 (0.333, 0.333, 0.333)        75     0.93
+  gender_min2       (0.0, 1.0, 0.0)        52     0.64
+  gender_min3       (1.0, 0.0, 0.0)       689    40.79
+  gender_min3   (0.667, 0.0, 0.333)       222    13.14
+  gender_min3   (0.333, 0.0, 0.667)       190    11.25
+  gender_min3   (0.667, 0.333, 0.0)       123     7.28
+  gender_min3       (0.0, 0.0, 1.0)       119     7.05
+  gender_min3 (0.333, 0.333, 0.333)        75     4.44
+  gender_min3   (0.0, 0.333, 0.667)        49     2.90
+  gender_min3   (0.333, 0.667, 0.0)        20     1.18
+  gender_min3     (0.75, 0.25, 0.0)        17     1.01
+  gender_min3     (0.75, 0.0, 0.25)        16     0.95
+ideology_min2       (1.0, 0.0, 0.0)      1782    48.58
+ideology_min2       (0.5, 0.0, 0.5)       633    17.26
+ideology_min2       (0.0, 0.0, 1.0)       432    11.78
+ideology_min2       (0.5, 0.5, 0.0)       310     8.45
+ideology_min2       (0.0, 0.5, 0.5)       141     3.84
+ideology_min2   (0.667, 0.0, 0.333)        29     0.79
+ideology_min2       (0.0, 1.0, 0.0)        23     0.63
+ideology_min2   (0.333, 0.0, 0.667)        22     0.60
+ideology_min2   (0.667, 0.333, 0.0)        16     0.44
+ideology_min2 (0.333, 0.333, 0.333)        13     0.35
+ideology_min3       (1.0, 0.0, 0.0)       139    25.00
+ideology_min3       (0.0, 0.0, 1.0)        68    12.23
+ideology_min3   (0.667, 0.0, 0.333)        29     5.22
+ideology_min3   (0.333, 0.0, 0.667)        22     3.96
+ideology_min3   (0.667, 0.333, 0.0)        16     2.88
+ideology_min3 (0.333, 0.333, 0.333)        13     2.34
+ideology_min3   (0.0, 0.333, 0.667)         8     1.44
+ideology_min3   (0.167, 0.0, 0.833)         4     0.72
+ideology_min3   (0.875, 0.125, 0.0)         4     0.72
+ideology_min3   (0.143, 0.0, 0.857)         3     0.54
+

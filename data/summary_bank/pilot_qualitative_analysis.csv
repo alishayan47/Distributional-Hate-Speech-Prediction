@@ -1,0 +1,13 @@
+summary_id,identity_group,topic,source_title,model_name,groundedness,relevance,neutrality,non_label_leakage,clarity,conciseness,total_score,qualitative_notes
+WIKI_IMM_OPPOSITION_IMMIGRATION_001,immigrants,opposition to immigration,Opposition to immigration,qwen2.5:7b-instruct,,,,,,,,
+WIKI_IMM_XENOPHOBIA_001,immigrants,xenophobia,Ethnic hatred,qwen2.5:7b-instruct,,,,,,,,
+WIKI_WOMEN_SEXISM_001,women,sexism,Gender inequality,qwen2.5:7b-instruct,,,,,,,,
+WIKI_WOMEN_MISOGYNY_001,women,misogyny,Misogyny and mass media,qwen2.5:7b-instruct,,,,,,,,
+WIKI_IMM_OPPOSITION_IMMIGRATION_001,immigrants,opposition to immigration,Opposition to immigration,llama3.1:8b,,,,,,,,
+WIKI_IMM_XENOPHOBIA_001,immigrants,xenophobia,Ethnic hatred,llama3.1:8b,,,,,,,,
+WIKI_WOMEN_SEXISM_001,women,sexism,Gender inequality,llama3.1:8b,,,,,,,,
+WIKI_WOMEN_MISOGYNY_001,women,misogyny,Misogyny and mass media,llama3.1:8b,,,,,,,,
+WIKI_IMM_OPPOSITION_IMMIGRATION_001,immigrants,opposition to immigration,Opposition to immigration,mistral:7b,,,,,,,,
+WIKI_IMM_XENOPHOBIA_001,immigrants,xenophobia,Ethnic hatred,mistral:7b,,,,,,,,
+WIKI_WOMEN_SEXISM_001,women,sexism,Gender inequality,mistral:7b,,,,,,,,
+WIKI_WOMEN_MISOGYNY_001,women,misogyny,Misogyny and mass media,mistral:7b,,,,,,,,

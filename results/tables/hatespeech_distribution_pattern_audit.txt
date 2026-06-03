@@ -1,0 +1,161 @@
+HATESPEECH DISTRIBUTION PATTERN AUDIT
+==========================================================================================
+
+1. DATASET SIZE
+------------------------------------------------------------------------------------------
+Unique comments: 19761
+Annotation rows: 49433
+
+2. OVERALL MOST COMMON DISTRIBUTION PATTERNS
+------------------------------------------------------------------------------------------
+ distribution_pattern  comments  percent
+      (1.0, 0.0, 0.0)     11082    56.08
+      (0.0, 0.0, 1.0)      3366    17.03
+      (0.5, 0.0, 0.5)      1325     6.71
+      (0.0, 1.0, 0.0)       858     4.34
+      (0.5, 0.5, 0.0)       598     3.03
+  (0.667, 0.0, 0.333)       569     2.88
+  (0.333, 0.0, 0.667)       412     2.08
+      (0.0, 0.5, 0.5)       296     1.50
+  (0.667, 0.333, 0.0)       287     1.45
+(0.333, 0.333, 0.333)       205     1.04
+    (0.75, 0.0, 0.25)       149     0.75
+  (0.0, 0.333, 0.667)       110     0.56
+    (0.75, 0.25, 0.0)        94     0.48
+    (0.25, 0.0, 0.75)        88     0.45
+    (0.5, 0.25, 0.25)        77     0.39
+    (0.25, 0.25, 0.5)        61     0.31
+  (0.333, 0.667, 0.0)        45     0.23
+    (0.0, 0.25, 0.75)        32     0.16
+  (0.0, 0.667, 0.333)        23     0.12
+    (0.25, 0.5, 0.25)        11     0.06
+      (0.4, 0.0, 0.6)         3     0.02
+      (0.8, 0.2, 0.0)         3     0.02
+    (0.25, 0.75, 0.0)         3     0.02
+      (0.2, 0.2, 0.6)         2     0.01
+      (0.6, 0.2, 0.2)         2     0.01
+      (0.4, 0.2, 0.4)         2     0.01
+      (0.2, 0.0, 0.8)         2     0.01
+ (0.36, 0.095, 0.545)         1     0.01
+(0.842, 0.105, 0.053)         1     0.01
+ (0.947, 0.03, 0.023)         1     0.01
+
+3. UNIQUE PATTERN SUMMARY
+------------------------------------------------------------------------------------------
+      subset  comments  unique_patterns  top_pattern_percent  top_5_patterns_percent  top_10_patterns_percent
+all_comments     19761               83                56.08                   87.19                    96.14
+
+4. PATTERN SUMMARY BY ANNOTATION THRESHOLD
+------------------------------------------------------------------------------------------
+annotation_threshold  comments  percent_of_all  unique_patterns  zero_entropy_percent  mean_entropy  median_entropy     top_pattern  top_pattern_percent  top_5_patterns_percent  top_10_patterns_percent
+                 >=1     19761          100.00               83                 77.46      0.225016        0.000000 (1.0, 0.0, 0.0)                56.08                   87.19                    96.14
+                 >=2     10639           53.84               83                 58.13      0.417948        0.000000 (1.0, 0.0, 0.0)                47.98                   80.89                    93.57
+                 >=3      4644           23.50               83                 49.35      0.504641        0.721928 (1.0, 0.0, 0.0)                43.07                   76.59                    90.65
+                 >=4      1235            6.25               75                 43.24      0.559334        0.811278 (1.0, 0.0, 0.0)                38.38                   72.87                    93.04
+                 >=5        87            0.44               63                 20.69      0.615387        0.677404 (1.0, 0.0, 0.0)                17.24                   29.89                    39.08
+
+5. PATTERN SUMMARY BY SPLIT AND THRESHOLD
+------------------------------------------------------------------------------------------
+     split annotation_threshold  comments  unique_patterns  zero_entropy_percent  mean_entropy  top_pattern_percent  top_5_patterns_percent
+     train                  >=1     13832               68                 77.56      0.223532                56.28                   87.23
+     train                  >=2      7437               68                 58.26      0.415744                48.20                   81.05
+     train                  >=3      3252               68                 49.63      0.499966                43.33                   76.97
+validation                  >=1      2964               29                 77.13      0.228493                56.17                   87.11
+validation                  >=2      1601               29                 57.65      0.423018                47.53                   80.76
+validation                  >=3       687               29                 49.49      0.504006                43.96                   75.98
+      test                  >=1      2965               29                 77.30      0.228469                55.04                   87.05
+      test                  >=2      1601               29                 57.96      0.423117                47.41                   80.26
+      test                  >=3       705               27                 47.94      0.526824                40.99                   75.46
+
+6. NON-ZERO ENTROPY PATTERNS
+------------------------------------------------------------------------------------------
+ distribution_pattern  comments  percent
+      (0.5, 0.0, 0.5)      1325    29.74
+      (0.5, 0.5, 0.0)       598    13.42
+  (0.667, 0.0, 0.333)       569    12.77
+  (0.333, 0.0, 0.667)       412     9.25
+      (0.0, 0.5, 0.5)       296     6.64
+  (0.667, 0.333, 0.0)       287     6.44
+(0.333, 0.333, 0.333)       205     4.60
+    (0.75, 0.0, 0.25)       149     3.34
+  (0.0, 0.333, 0.667)       110     2.47
+    (0.75, 0.25, 0.0)        94     2.11
+    (0.25, 0.0, 0.75)        88     1.98
+    (0.5, 0.25, 0.25)        77     1.73
+    (0.25, 0.25, 0.5)        61     1.37
+  (0.333, 0.667, 0.0)        45     1.01
+    (0.0, 0.25, 0.75)        32     0.72
+  (0.0, 0.667, 0.333)        23     0.52
+    (0.25, 0.5, 0.25)        11     0.25
+      (0.4, 0.0, 0.6)         3     0.07
+      (0.8, 0.2, 0.0)         3     0.07
+    (0.25, 0.75, 0.0)         3     0.07
+      (0.2, 0.2, 0.6)         2     0.04
+      (0.4, 0.2, 0.4)         2     0.04
+      (0.6, 0.2, 0.2)         2     0.04
+      (0.2, 0.0, 0.8)         2     0.04
+      (0.6, 0.4, 0.0)         1     0.02
+(0.842, 0.105, 0.053)         1     0.02
+ (0.947, 0.03, 0.023)         1     0.02
+(0.579, 0.053, 0.368)         1     0.02
+(0.941, 0.028, 0.031)         1     0.02
+    (0.05, 0.0, 0.95)         1     0.02
+
+7. NON-ZERO ENTROPY + ANNOTATION THRESHOLD SUMMARY
+------------------------------------------------------------------------------------------
+                            subset  comments  percent_of_all  unique_patterns  mean_entropy  median_entropy  top_pattern_percent  top_5_patterns_percent  top_10_patterns_percent
+nonzero_entropy_and_annotations>=2      4455           22.54               80      0.998103        1.000000                29.74                   71.83                    90.80
+nonzero_entropy_and_annotations>=3      2352           11.90               80      0.996408        0.918296                24.19                   68.96                    88.69
+nonzero_entropy_and_annotations>=4       701            3.55               73      0.985418        0.811278                21.26                   71.75                    89.73
+nonzero_entropy_and_annotations>=5        69            0.35               61      0.775923        0.774243                 4.35                   17.39                    26.09
+
+8. MAJORITY LABEL DISTRIBUTION BY SUBSET
+------------------------------------------------------------------------------------------
+                            subset  comments  majority_0_percent  majority_1_percent  majority_2_percent
+                      all_comments     19761               72.95                6.26               20.79
+                    annotations>=2     10639               79.32                4.22               16.46
+                    annotations>=3      4644               75.90                1.89               22.20
+                   nonzero_entropy      4455               74.84                8.51               16.66
+nonzero_entropy_and_annotations>=2      4455               74.84                8.51               16.66
+nonzero_entropy_and_annotations>=3      2352               64.84                3.61               31.55
+
+9. PATTERN TYPE SUMMARY
+------------------------------------------------------------------------------------------
+      pattern_type  comments  mean_annotation_count  median_annotation_count  mean_entropy  majority_0_percent  majority_1_percent  majority_2_percent
+mixed_distribution      4455               5.593490                      3.0      0.998103               74.84                8.51               16.66
+ one_hot_consensus     15306               1.601594                      1.0      0.000000               72.40                5.61               21.99
+
+10. COMMON MIXED PATTERN EXAMPLES
+------------------------------------------------------------------------------------------
+ distribution_pattern  comment_id      split  annotation_count  entropy  majority_label                                                                                                                                                                                                                                                                                                   text_clean
+      (0.5, 0.0, 0.5)           7       test                 2 1.000000               0                                                 \*points to posters asking for palestinian rights and freedom\* theyre antisemetic and want to kill all the jews and dont acknowledge our right to exist ​ cant wait for this prick to die and go straight to hell. ill dig him the hole to get there myself
+      (0.5, 0.0, 0.5)          12      train                 2 1.000000               0                                                                                                                                                                                                                                                                                             She ugly anyways
+      (0.5, 0.0, 0.5)          22      train                 2 1.000000               0                                                                                                                                                             The guys are one thing but then you have a woman there making one of the worst comments. I say rape them all with a cactus and say God willed it
+      (0.5, 0.5, 0.0)          88      train                 2 1.000000               0                                                                                                                                                                                                                                                  Better get 2 abortions for your spawn cause you're a dickun
+      (0.5, 0.5, 0.0)         186      train                 2 1.000000               0                                                                                                                                                                                                                Um if a penis is triggering the deeper fears of the human mind, probably penis isn't for you.
+      (0.5, 0.5, 0.0)         202 validation                 2 1.000000               0 More conflation of sex and gender.. I. Am. Shocked 🙄 I, a GNC, child free woman, am a survivor of rape who's had a rape kit exam (which includes a swipe of my cervix) AND given Plan B, why? Because unlike you, I AM FEMALE, and those services were created (and fought for) specifically to combat the s
+  (0.667, 0.0, 0.333)          26      train                 3 0.918296               0                                                                                                                                                                                                                                          I'd love to rip those panties off and shove my fat cock in her ass.
+  (0.667, 0.0, 0.333)         132 validation                 3 0.918296               0 As someone from the US, fuck our craven sack of shit politicians and our rape-enabling state governments. We have no fucking right to act like we're superior to anyone when we've completely regressed to the same type of pre-1970s policies that led to the deaths of thousands of women. Anyone who beli
+  (0.667, 0.0, 0.333)         224      train                 3 0.918296               0                                                                                                                                                                                                                                                                     I fought so my daughters could be sluts!
+  (0.333, 0.0, 0.667)          10      train                 3 0.918296               2                            They'll come back in your plan, also. Plus we pay to jail them for 2 years. With my plan, we jail them after they come back. And deport them again. It really doesn't matter either way until we're build the wall, and shoot the invaders as enemies when they cross the border.
+  (0.333, 0.0, 0.667)         268      train                 3 0.918296               2                                                                                                                                                                                                                                                                                        Fuck those Saudi rats
+  (0.333, 0.0, 0.667)         450      train                 3 0.918296               2                                    Chivalry is for cucks Maybe in a day and age where you got something for it But women are addled with feminist entitlement, slutiness, victim complex, and a complete lack of gratitude No chivalry for these little miss independents. Why the fuck would anyone bother?
+      (0.0, 0.5, 0.5)          11 validation                 2 1.000000               1                                                                                                                                                                                                                                                                                           eat my fuck, bitch
+      (0.0, 0.5, 0.5)         161      train                 2 1.000000               1                                                                                                                                                                                                                                                 They are..... Freaking sluts and baby murdering slut fuckers
+      (0.0, 0.5, 0.5)         230      train                 2 1.000000               1                                                                                                             I wish I could be in that room as they take turns pumping her full of their superior seed. And I could just see them laughing at me as I spill my pitiful cum to watching the future of my race.
+  (0.667, 0.333, 0.0)          29      train                 3 0.918296               0                                                       I'm absolutely for equal rights for all people. In my life, things generally do seem equal, so I think it's more important at this point to focus on places where there is currently horrible gender inequality (probably the Middle East and Africa).
+  (0.667, 0.333, 0.0)          38      train                 3 0.918296               0                                                                                              Give me your tired, your poor, your religious nutcases, your criminals ... the wretched refuse of your teeming shore ... and finally allow Europe to be subjected to the moronic whims of this wretched refuse.
+  (0.667, 0.333, 0.0)         140      train                 3 0.918296               0                                                                                                                                          true, she probably will get a slap on the hand and a head nod from the simped judge and grants her the pussy pass so she can go and whine about the male privilege.
+(0.333, 0.333, 0.333)         550 validation                 3 1.584963               0                                                                                                                                                                                                                                                                                  That bitch epitomizes trash
+(0.333, 0.333, 0.333)         724      train                 3 1.584963               0                                                                                                                                                                                                I wont believe she really is a woke feminist until there us a midget xer behind her with xer dick in her ass.
+(0.333, 0.333, 0.333)        1006      train                 3 1.584963               0                                                                                                                                                                                                                                           Worthless whore, these tits with look nice with bite marks and cum
+    (0.75, 0.0, 0.25)         260 validation                 4 0.811278               0                                                                                                                                                                                                                                                                      Send the fuckers back across the border
+    (0.75, 0.0, 0.25)         625       test                 4 0.811278               0                                               Anti-feminists: most women don't belong in he military because they're weak Law: doesn't require women to register for the selective service Anti-feminists: interesting you never hear feminists saying women should be drafted, what about women's equality?
+    (0.75, 0.0, 0.25)         737      train                 4 0.811278               0                                                                                                                                                                                                                                                                  She's disgusting. I'd let her suck my cock.
+  (0.0, 0.333, 0.667)         854       test                 3 0.918296               2                                                                                                                                                                                                                                           Wtf is wrong with you cunt bag? Did mommy not change your diapers?
+  (0.0, 0.333, 0.667)         902       test                 3 0.918296               2                                                                                                                                                                                                                                     She was a whore who craved multiple cocks in her cunt. plain and simple.
+  (0.0, 0.333, 0.667)        1530      train                 3 0.918296               2                                                                                                                                                                                                       I'd dump a load in you and then dry my dirty cock off with a fist full of your hair. You're a cum rag.
+    (0.75, 0.25, 0.0)         119      train                 4 0.811278               0 You know how women put so much effort into looking and smelling pretty, acting like they are the epitome of clean? Yeah, due to the effort they put out to maintain that facade they have no leftover energy for shitting like a normal person, cleaning off their sink top, or cleaning the garbage out of 
+    (0.75, 0.25, 0.0)         772      train                 4 0.811278               0                                                                                                                                                               Swedes are always trying to steal stuff. First they stole meatballs from the Italians, then flat pack furniture from the gypsies. Now this. /s
+    (0.75, 0.25, 0.0)         823      train                 4 0.811278               0 there really is some weird implied sense in women that hey, i exist, so you MUST fuck me if i want to fuck you. I truly believe so much of the feminist hatred comes from post wall women. their ego's inflated to such a degree, that when the "no's" start coming in, they just don't know how to handle i
+

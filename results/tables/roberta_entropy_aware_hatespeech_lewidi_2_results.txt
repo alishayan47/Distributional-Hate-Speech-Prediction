@@ -1,0 +1,112 @@
+ROBERTA ENTROPY-AWARE HATESPEECH LEWIDI BASELINE RESULTS
+==========================================================================================
+
+1. RUN INFORMATION
+------------------------------------------------------------------------------------------
+Run timestamp: 2026-06-02 08:41:56
+Model name: roberta-base
+Output directory: ../models/roberta_entropy_aware_hatespeech_lewidi_2
+Best validation JS: 0.09810124337673187
+Epochs completed: 6
+
+2. DATASET STRATEGY
+------------------------------------------------------------------------------------------
+Target: hatespeech annotator label distribution only.
+Minimum annotations per comment: 2
+Original comments: 19761
+Reliable comments: 10639
+Percent kept: 53.84%
+
+Full split counts:
+     split  comments  mean_annotation_count  mean_entropy  zero_entropy_percent
+      test      2965               2.601349      0.228469                 77.30
+     train     13832               2.487927      0.223532                 77.56
+validation      2964               2.465250      0.228493                 77.13
+
+Reliable subset split counts:
+     split  comments  mean_annotation_count  mean_entropy  zero_entropy_percent
+      test      1601               3.965646      0.423117                 57.96
+     train      7437               3.767379      0.415744                 58.26
+validation      1601               3.712680      0.423018                 57.65
+
+Entropy group summary:
+     split  entropy_group  comments  mean_entropy  mean_annotation_count
+      test   high_entropy        66      1.531993               7.000000
+      test    low_entropy       276      0.888765              10.032609
+      test medium_entropy       331      1.000000               2.151057
+      test   zero_entropy       928      0.000000               2.592672
+     train   high_entropy       252      1.533318              17.293651
+     train    low_entropy      1301      0.887566               7.149116
+     train medium_entropy      1551      0.999850               2.367505
+     train   zero_entropy      4333      0.000000               2.466420
+validation   high_entropy        57      1.535602              15.526316
+validation    low_entropy       277      0.887087               7.386282
+validation medium_entropy       344      1.000000               2.075581
+validation   zero_entropy       923      0.000000               2.490791
+
+3. MODEL OBJECTIVE
+------------------------------------------------------------------------------------------
+Architecture: RoBERTa encoder with one 3-class distribution head.
+Loss: KL divergence between predicted and gold annotator distributions.
+Validation: overall and entropy-sliced JS/KL/accuracy/entropy correlation.
+
+4. TRAINING SETUP
+------------------------------------------------------------------------------------------
+Max length: 128
+Train batch size: 8
+Eval batch size: 16
+Learning rate: 5e-06
+Weight decay: 0.1
+Dropout: 0.35
+Frozen lower RoBERTa layers: 4
+Max epochs: 10
+Early stopping patience: 3
+
+5. TRAINING HISTORY
+------------------------------------------------------------------------------------------
+ epoch  train_loss  val_kl_divergence  val_js_divergence  val_hard_accuracy  val_entropy_correlation  val_entropy_mae  val_eval_loss
+     1    0.411102           0.373211           0.104043           0.795753                 0.416559         0.619951       0.402492
+     2    0.389943           0.382496           0.101912           0.807620                 0.417572         0.577281       0.423051
+     3    0.372783           0.382397           0.098101           0.790756                 0.417549         0.537095       0.432489
+     4    0.356091           0.384779           0.104078           0.777639                 0.404715         0.586253       0.420649
+     5    0.336646           0.400827           0.098662           0.784510                 0.406043         0.518207       0.459855
+     6    0.312610           0.449187           0.102773           0.768270                 0.376235         0.498215       0.524166
+
+6. FINAL VALIDATION RESULTS
+------------------------------------------------------------------------------------------
+kl_divergence: 0.3823968768119812
+js_divergence: 0.09810124337673187
+hard_accuracy: 0.7907557776389756
+entropy_correlation: 0.41754934911093455
+entropy_mae: 0.5370948314666748
+eval_loss: 0.4324894678769725
+
+Validation by entropy group:
+ entropy_group   n  kl_divergence  js_divergence  hard_accuracy  entropy_correlation  entropy_mae
+  high_entropy  57       0.361946       0.071568       0.578947             0.073375     0.366937
+   low_entropy 277       0.388198       0.092353       0.754513             0.059948     0.386685
+medium_entropy 344       0.609979       0.135351       0.508721                  NaN     0.331341
+  zero_entropy 923       0.297100       0.087582       0.919827                  NaN     0.669426
+
+7. FINAL TEST RESULTS
+------------------------------------------------------------------------------------------
+kl_divergence: 0.4037986099720001
+js_divergence: 0.10362039506435394
+hard_accuracy: 0.7670206121174266
+entropy_correlation: 0.38153544657445443
+entropy_mae: 0.5582501292228699
+eval_loss: 0.4622290988664816
+
+Test by entropy group:
+ entropy_group   n  kl_divergence  js_divergence  hard_accuracy  entropy_correlation  entropy_mae
+  high_entropy  66       0.398489       0.075128       0.515152            -0.020914     0.427405
+   low_entropy 276       0.389864       0.092805       0.688406             0.163179     0.382384
+medium_entropy 331       0.595352       0.133648       0.534743                  NaN     0.332935
+  zero_entropy 928       0.339997       0.098153       0.891164                  NaN     0.700227
+
+8. PYEVAL LEWIDI RESULTS
+------------------------------------------------------------------------------------------
+CrossEntropy: 1.0109927081716288
+ICMSoft: -2.2320832944349305
+ICMSoftNorm: 0.2641746200618378
+
