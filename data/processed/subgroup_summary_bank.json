@@ -1,0 +1,282 @@
+{
+  "extremely_liberal": [
+    {
+      "subgroup": "extremely_liberal",
+      "summary_id": "WIKI_IMM_LEFT_WING_POLITICS_001",
+      "article_title": "Left-wing politics",
+      "resolved_title": "Left-wing politics",
+      "page_url": "https://en.wikipedia.org/wiki/Left-wing_politics",
+      "selected_model": "llama3.1:8b",
+      "summary": "Left-wing politics emphasizes social equality and egalitarianism, often opposing social hierarchies and advocating for empowerment and against oppression. Leftist ideologies vary greatly but typically involve a concern for the disadvantaged and a belief in reducing or abolishing unjustified inequalities through radical means. The left is associated with popular or state control of institutions, trade unions, and critiques of capitalism, globalization, and environmental degradation, which disproportionately affect poorer communities and countries.",
+      "composite_score": 0.715799006815562,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "extremely_liberal",
+      "summary_id": "WIKI_IMM_MULTICULTURALISM_001",
+      "article_title": "Multiculturalism",
+      "resolved_title": "Multiculturalism",
+      "page_url": "https://en.wikipedia.org/wiki/Multiculturalism",
+      "selected_model": "llama3.1:8b",
+      "summary": "Multiculturalism is often associated with Western nation-states, which have historically promoted national identities through education, conscription, and language standardization. This has led to cultural homogenization, particularly in Europe and North America. However, since the 1970s, some countries like Canada and Australia have adopted multicultural policies, recognizing the importance of immigration and diversity. Research suggests that economic inequality and trust in government are more significant factors in social cohesion than diversity itself.",
+      "composite_score": 0.5800696177769393,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "extremely_liberal",
+      "summary_id": "WIKI_IMM_FREE_MIGRATION_001",
+      "article_title": "Free migration",
+      "resolved_title": "Free migration",
+      "page_url": "https://en.wikipedia.org/wiki/Free_migration",
+      "selected_model": "qwen2.5:7b-instruct",
+      "summary": "The article discusses free migration or open immigration as a position advocating few restrictions on people's ability to move freely between countries. It explores spiritual and religious perspectives that view migration as a journey towards enlightenment or divine purification, emphasizing equality and hospitality towards migrants. The text also highlights legal and political debates, noting that while some nations support open borders, others have tightened immigration policies due to economic, cultural, and security concerns. Economic arguments for free migration suggest significant potential benefits, particularly in reducing global inequality through labor mobility.",
+      "composite_score": 0.367536590895566,
+      "selection_source": "automatic_composite"
+    }
+  ],
+  "liberal": [
+    {
+      "subgroup": "liberal",
+      "summary_id": "WIKI_IMM_LIBERALISM_001",
+      "article_title": "Liberalism",
+      "resolved_title": "Liberalism",
+      "page_url": "https://en.wikipedia.org/wiki/Liberalism",
+      "selected_model": "mistral:7b",
+      "summary": "The article on Liberalism outlines a political and moral philosophy that emphasizes individual rights, liberty, consent of the governed, and equality before the law. Originating in the Age of Enlightenment, liberalism sought to replace hereditary privilege, state religion, and absolute monarchy with representative democracy, rule of law, and equality under the law. It promoted free trade, marketization, and secularism, as demonstrated by key events like the Glorious Revolution, American Revolution, and French Revolution. In the 19th century, liberalism spread across Europe and South America, influencing reforms such as the Tanzimat and Al-Nahda, and the rise of constitutionalism, nationalism, and secularism in the Ottoman Empire and Middle East. This led to a sense of crisis within Islam, contributing to Islamic revivalism.",
+      "composite_score": 0.8455142013813834,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "liberal",
+      "summary_id": "WIKI_IMM_LEFT_WING_POLITICS_001",
+      "article_title": "Left-wing politics",
+      "resolved_title": "Left-wing politics",
+      "page_url": "https://en.wikipedia.org/wiki/Left-wing_politics",
+      "selected_model": "llama3.1:8b",
+      "summary": "Left-wing politics emphasizes social equality and egalitarianism, often opposing social hierarchies and advocating for empowerment and against oppression. Leftist ideologies vary greatly but typically involve a concern for the disadvantaged and a belief in reducing or abolishing unjustified inequalities through radical means. The left is associated with popular or state control of institutions, trade unions, and critiques of capitalism, globalization, and environmental degradation, which disproportionately affect poorer communities and countries.",
+      "composite_score": 0.715799006815562,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "liberal",
+      "summary_id": "WIKI_IMM_MULTICULTURALISM_001",
+      "article_title": "Multiculturalism",
+      "resolved_title": "Multiculturalism",
+      "page_url": "https://en.wikipedia.org/wiki/Multiculturalism",
+      "selected_model": "llama3.1:8b",
+      "summary": "Multiculturalism is often associated with Western nation-states, which have historically promoted national identities through education, conscription, and language standardization. This has led to cultural homogenization, particularly in Europe and North America. However, since the 1970s, some countries like Canada and Australia have adopted multicultural policies, recognizing the importance of immigration and diversity. Research suggests that economic inequality and trust in government are more significant factors in social cohesion than diversity itself.",
+      "composite_score": 0.5800696177769393,
+      "selection_source": "automatic_composite"
+    }
+  ],
+  "slightly_liberal": [
+    {
+      "subgroup": "slightly_liberal",
+      "summary_id": "WIKI_IMM_SOCIAL_LIBERALISM_001",
+      "article_title": "Social liberalism",
+      "resolved_title": "Social liberalism",
+      "page_url": "https://en.wikipedia.org/wiki/Social_liberalism",
+      "selected_model": "llama3.1:8b",
+      "summary": "Social liberalism is a political ideology that emphasizes government intervention in addressing social inequalities and ensuring public welfare, while also prioritizing individual rights and autonomy. It combines elements of classical liberalism with a more active role for the state in promoting social justice and economic equality. Social liberals often overlap with social democrats but differ in their emphasis on market intervention. In Western countries, social liberal policies have become widespread, influencing discourse around issues like poverty, welfare, healthcare, and education.",
+      "composite_score": 0.7571550163014087,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "slightly_liberal",
+      "summary_id": "WIKI_IMM_LIBERALISM_001",
+      "article_title": "Liberalism",
+      "resolved_title": "Liberalism",
+      "page_url": "https://en.wikipedia.org/wiki/Liberalism",
+      "selected_model": "mistral:7b",
+      "summary": "The article on Liberalism outlines a political and moral philosophy that emphasizes individual rights, liberty, consent of the governed, and equality before the law. Originating in the Age of Enlightenment, liberalism sought to replace hereditary privilege, state religion, and absolute monarchy with representative democracy, rule of law, and equality under the law. It promoted free trade, marketization, and secularism, as demonstrated by key events like the Glorious Revolution, American Revolution, and French Revolution. In the 19th century, liberalism spread across Europe and South America, influencing reforms such as the Tanzimat and Al-Nahda, and the rise of constitutionalism, nationalism, and secularism in the Ottoman Empire and Middle East. This led to a sense of crisis within Islam, contributing to Islamic revivalism.",
+      "composite_score": 0.8455142013813834,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "slightly_liberal",
+      "summary_id": "WIKI_IMM_LEFT_WING_POLITICS_001",
+      "article_title": "Left-wing politics",
+      "resolved_title": "Left-wing politics",
+      "page_url": "https://en.wikipedia.org/wiki/Left-wing_politics",
+      "selected_model": "llama3.1:8b",
+      "summary": "Left-wing politics emphasizes social equality and egalitarianism, often opposing social hierarchies and advocating for empowerment and against oppression. Leftist ideologies vary greatly but typically involve a concern for the disadvantaged and a belief in reducing or abolishing unjustified inequalities through radical means. The left is associated with popular or state control of institutions, trade unions, and critiques of capitalism, globalization, and environmental degradation, which disproportionately affect poorer communities and countries.",
+      "composite_score": 0.715799006815562,
+      "selection_source": "automatic_composite"
+    }
+  ],
+  "neutral": [
+    {
+      "subgroup": "neutral",
+      "summary_id": "WIKI_IMM_CENTRISM_001",
+      "article_title": "Centrism",
+      "resolved_title": "Centrism",
+      "page_url": "https://en.wikipedia.org/wiki/Centrism",
+      "selected_model": "mistral:7b",
+      "summary": "Centrism, a moderate political ideology between left-wing and right-wing on the left-right spectrum, is associated with liberalism, radical centrism, and agrarianism. It advocates for gradual change, often through welfare state policies with moderate redistributive emphasis. Centrist parties hold middle positions in multi-party systems, forming coalition governments but often as junior partners unable to enact their own policies. They are weaker in first-past-the-post voting than proportional representation systems. The placement and definition of centrism can be debated, with some considering liberalism, green parties, Christian democracy, and agrarianism as forms of centrism. Centrist parties may face challenges from both left and right, or only from one direction, influencing the political landscape uniquely in each nation. The overall effect of cent",
+      "composite_score": 0.7919663839276254,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "neutral",
+      "summary_id": "WIKI_IMM_POLITICAL_SPECTRUM_001",
+      "article_title": "Political spectrum",
+      "resolved_title": "Political spectrum",
+      "page_url": "https://en.wikipedia.org/wiki/Political_spectrum",
+      "selected_model": "mistral:7b",
+      "summary": "The political spectrum is a system to classify political positions, often represented as a two-dimensional map with the left–right dimension measuring social, political, and economic hierarchy, and an authority–liberty dimension representing socio-cultural issues. Originating from seating arrangements in the French parliament during the Revolution, right-wing politics traditionally support aristocratic or royal interests, while left-wing politics advocate for republicanism, secularism, and civil liberties. Leonard W. Ferguson's research in 1950 identified three factors: religionism (belief in God and negative attitudes toward evolution and birth control), humanitarianism (opposing war, capital punishment, and harsh treatment of criminals), and nationalism (opinions on censorship, law, patriotism, and communism). Hans Eys",
+      "composite_score": 0.7533211821443087,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "neutral",
+      "summary_id": "WIKI_IMM_IMMIGRATION_001",
+      "article_title": "Immigration",
+      "resolved_title": "Immigration",
+      "page_url": "https://en.wikipedia.org/wiki/Immigration",
+      "selected_model": "llama3.1:8b",
+      "summary": "Immigration is a complex issue influenced by various push and pull factors, including economic, political, social, and environmental influences. Research suggests that migration can be beneficial to both receiving and sending countries, with positive effects on the economy, but also raises concerns about discrimination, assimilation, and identity-based prejudice. The global migrant crisis, driven by conflicts, poverty, and climate change, has reached an all-time high of 123 million people in 2024. Discrimination against foreign-born persons is widespread, affecting various aspects of life, including employment, housing, healthcare, and politics.",
+      "composite_score": 0.5917677178495702,
+      "selection_source": "automatic_composite"
+    }
+  ],
+  "no_opinion": [
+    {
+      "subgroup": "no_opinion",
+      "summary_id": "WIKI_IMM_CENTRISM_001",
+      "article_title": "Centrism",
+      "resolved_title": "Centrism",
+      "page_url": "https://en.wikipedia.org/wiki/Centrism",
+      "selected_model": "mistral:7b",
+      "summary": "Centrism, a moderate political ideology between left-wing and right-wing on the left-right spectrum, is associated with liberalism, radical centrism, and agrarianism. It advocates for gradual change, often through welfare state policies with moderate redistributive emphasis. Centrist parties hold middle positions in multi-party systems, forming coalition governments but often as junior partners unable to enact their own policies. They are weaker in first-past-the-post voting than proportional representation systems. The placement and definition of centrism can be debated, with some considering liberalism, green parties, Christian democracy, and agrarianism as forms of centrism. Centrist parties may face challenges from both left and right, or only from one direction, influencing the political landscape uniquely in each nation. The overall effect of cent",
+      "composite_score": 0.7919663839276254,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "no_opinion",
+      "summary_id": "WIKI_IMM_POLITICAL_SPECTRUM_001",
+      "article_title": "Political spectrum",
+      "resolved_title": "Political spectrum",
+      "page_url": "https://en.wikipedia.org/wiki/Political_spectrum",
+      "selected_model": "mistral:7b",
+      "summary": "The political spectrum is a system to classify political positions, often represented as a two-dimensional map with the left–right dimension measuring social, political, and economic hierarchy, and an authority–liberty dimension representing socio-cultural issues. Originating from seating arrangements in the French parliament during the Revolution, right-wing politics traditionally support aristocratic or royal interests, while left-wing politics advocate for republicanism, secularism, and civil liberties. Leonard W. Ferguson's research in 1950 identified three factors: religionism (belief in God and negative attitudes toward evolution and birth control), humanitarianism (opposing war, capital punishment, and harsh treatment of criminals), and nationalism (opinions on censorship, law, patriotism, and communism). Hans Eys",
+      "composite_score": 0.7533211821443087,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "no_opinion",
+      "summary_id": "WIKI_IMM_IMMIGRATION_001",
+      "article_title": "Immigration",
+      "resolved_title": "Immigration",
+      "page_url": "https://en.wikipedia.org/wiki/Immigration",
+      "selected_model": "llama3.1:8b",
+      "summary": "Immigration is a complex issue influenced by various push and pull factors, including economic, political, social, and environmental influences. Research suggests that migration can be beneficial to both receiving and sending countries, with positive effects on the economy, but also raises concerns about discrimination, assimilation, and identity-based prejudice. The global migrant crisis, driven by conflicts, poverty, and climate change, has reached an all-time high of 123 million people in 2024. Discrimination against foreign-born persons is widespread, affecting various aspects of life, including employment, housing, healthcare, and politics.",
+      "composite_score": 0.5917677178495702,
+      "selection_source": "automatic_composite"
+    }
+  ],
+  "slightly_conservative": [
+    {
+      "subgroup": "slightly_conservative",
+      "summary_id": "WIKI_IMM_CONSERVATISM_001",
+      "article_title": "Conservatism",
+      "resolved_title": "Conservatism",
+      "page_url": "https://en.wikipedia.org/wiki/Conservatism",
+      "selected_model": "llama3.1:8b",
+      "summary": "Conservatism is a cultural, social, and political philosophy that seeks to promote and preserve traditional institutions, customs, and values. It often emphasizes tradition, authority, hierarchy, and property rights, with some variants being more authoritarian or populist. Conservatives may view human nature as imperfect and believe in the importance of established institutions, such as an established church and a landed aristocracy. This can lead to a defense of social and economic inequality, as well as a fear of those who challenge established hierarchies.",
+      "composite_score": 0.7825359859231662,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "slightly_conservative",
+      "summary_id": "WIKI_IMM_RIGHT_WING_POLITICS_001",
+      "article_title": "Right-wing politics",
+      "resolved_title": "Right-wing politics",
+      "page_url": "https://en.wikipedia.org/wiki/Right-wing_politics",
+      "selected_model": "llama3.1:8b",
+      "summary": "Right-wing politics often justify hierarchical societies based on natural law or tradition, and typically support conservatism, authority, property, religion, or tradition. Right-wing ideologies have historically been associated with monarchism, social stratification, and opposition to communism, liberalism, and individualism. In modern times, right-wing movements have shifted towards supporting capitalism and free markets, but some continue to advocate for paternalist class harmony and organic-hierarchical societies. Nationalism has also become a key aspect of right-wing politics, often linked with cultural conservatism and anti-immigrant rhetoric.",
+      "composite_score": 0.5900861175854326,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "slightly_conservative",
+      "summary_id": "WIKI_IMM_CIVIC_NATIONALISM_001",
+      "article_title": "Civic nationalism",
+      "resolved_title": "Civic nationalism",
+      "page_url": "https://en.wikipedia.org/wiki/Civic_nationalism",
+      "selected_model": "llama3.1:8b",
+      "summary": "Civic nationalism emphasizes shared citizenship and liberal principles over cultural or ethnic identity. It contrasts with ethnic nationalism, which often involves authoritarian rule and exclusionary practices. Civic nationalists argue that individuals need a national identity to lead meaningful lives, but this can be problematic as it may involve an underlying ethnic concept of belonging. Scholars have criticized the distinction between civic and ethnic nationalism, arguing that all nations are inherently exclusionary and that civic nationalism inevitably relies on cultural or ethnic components.",
+      "composite_score": 0.6309025050661576,
+      "selection_source": "automatic_composite"
+    }
+  ],
+  "conservative": [
+    {
+      "subgroup": "conservative",
+      "summary_id": "WIKI_IMM_CONSERVATISM_001",
+      "article_title": "Conservatism",
+      "resolved_title": "Conservatism",
+      "page_url": "https://en.wikipedia.org/wiki/Conservatism",
+      "selected_model": "llama3.1:8b",
+      "summary": "Conservatism is a cultural, social, and political philosophy that seeks to promote and preserve traditional institutions, customs, and values. It often emphasizes tradition, authority, hierarchy, and property rights, with some variants being more authoritarian or populist. Conservatives may view human nature as imperfect and believe in the importance of established institutions, such as an established church and a landed aristocracy. This can lead to a defense of social and economic inequality, as well as a fear of those who challenge established hierarchies.",
+      "composite_score": 0.7825359859231662,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "conservative",
+      "summary_id": "WIKI_IMM_RIGHT_WING_POLITICS_001",
+      "article_title": "Right-wing politics",
+      "resolved_title": "Right-wing politics",
+      "page_url": "https://en.wikipedia.org/wiki/Right-wing_politics",
+      "selected_model": "llama3.1:8b",
+      "summary": "Right-wing politics often justify hierarchical societies based on natural law or tradition, and typically support conservatism, authority, property, religion, or tradition. Right-wing ideologies have historically been associated with monarchism, social stratification, and opposition to communism, liberalism, and individualism. In modern times, right-wing movements have shifted towards supporting capitalism and free markets, but some continue to advocate for paternalist class harmony and organic-hierarchical societies. Nationalism has also become a key aspect of right-wing politics, often linked with cultural conservatism and anti-immigrant rhetoric.",
+      "composite_score": 0.5900861175854326,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "conservative",
+      "summary_id": "WIKI_IMM_OPPOSITION_TO_IMMIGRATION_001",
+      "article_title": "Opposition to immigration",
+      "resolved_title": "Opposition to immigration",
+      "page_url": "https://en.wikipedia.org/wiki/Opposition_to_immigration",
+      "selected_model": "llama3.1:8b",
+      "summary": "National identity is often linked to attitudes against immigration, particularly when defined in exclusionary ways. Research suggests people respond more strongly to national identity appeals than economic considerations when discussing immigration. Opponents also cite concerns over sovereignty, isolation and separation, increased competition for resources, diseases brought by immigrants, crime rates, military loyalty, and cultural importation. Additionally, some argue that immigration can lead to economic costs, damage migrants' home countries, and fail to address underlying problems in the countries of origin.",
+      "composite_score": 0.4629118993674052,
+      "selection_source": "automatic_composite"
+    }
+  ],
+  "extremely_conservative": [
+    {
+      "subgroup": "extremely_conservative",
+      "summary_id": "WIKI_IMM_NATIONAL_CONSERVATISM_001",
+      "article_title": "National conservatism",
+      "resolved_title": "National conservatism",
+      "page_url": "https://en.wikipedia.org/wiki/National_conservatism",
+      "selected_model": "llama3.1:8b",
+      "summary": "National conservatism prioritizes national and cultural identity, often based on a theory of the family as a model for the state. It opposes individualism, universal human rights, and internationalism, instead advocating for nationalism, patriotism, and monoculturalism. National conservatives typically support traditional family values, strict law and order policies, and restrictions on immigration, while rejecting modernity, secularism, and liberalism. They often lean towards militarism, unilateralism, and isolationism in foreign policy, and have gained ground in post-communist Eastern Europe and among certain demographic groups in the Western world.",
+      "composite_score": 0.7995573860082237,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "extremely_conservative",
+      "summary_id": "WIKI_IMM_NATIVISM_POLITICS_001",
+      "article_title": "Nativism (politics)",
+      "resolved_title": "Nativism (politics)",
+      "page_url": "https://en.wikipedia.org/wiki/Nativism_(politics)",
+      "selected_model": "llama3.1:8b",
+      "summary": "Nativism is a political policy promoting the interests of native-born or indigenous people over those of immigrants, often driven by fears that immigration will distort cultural values. In many countries, including Australia, Brazil, and Taiwan, nativist movements have been fueled by economic, cultural, and national identity concerns. Nativists believe that immigrants acquire jobs from natives, create a surplus of labor, and lower wages, as well as threaten cultural heritage and national security. The concept of \"Heritage American\" in the US emphasizes demographic, cultural, and aesthetic values developed by settlers considered foundational to Americana culture.",
+      "composite_score": 0.7171814193291013,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "extremely_conservative",
+      "summary_id": "WIKI_IMM_OPPOSITION_TO_IMMIGRATION_001",
+      "article_title": "Opposition to immigration",
+      "resolved_title": "Opposition to immigration",
+      "page_url": "https://en.wikipedia.org/wiki/Opposition_to_immigration",
+      "selected_model": "llama3.1:8b",
+      "summary": "National identity is often linked to attitudes against immigration, particularly when defined in exclusionary ways. Research suggests people respond more strongly to national identity appeals than economic considerations when discussing immigration. Opponents also cite concerns over sovereignty, isolation and separation, increased competition for resources, diseases brought by immigrants, crime rates, military loyalty, and cultural importation. Additionally, some argue that immigration can lead to economic costs, damage migrants' home countries, and fail to address underlying problems in the countries of origin.",
+      "composite_score": 0.4629118993674052,
+      "selection_source": "automatic_composite"
+    }
+  ]
+}

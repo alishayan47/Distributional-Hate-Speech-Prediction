@@ -1,0 +1,173 @@
+{
+  "men": [
+    {
+      "subgroup": "men",
+      "summary_id": "WIKI_WOMEN_MASCULINITY_001",
+      "article_title": "Masculinity",
+      "resolved_title": "Masculinity",
+      "page_url": "https://en.wikipedia.org/wiki/Masculinity",
+      "selected_model": "llama3.1:8b",
+      "summary": "Masculinity is a socially constructed concept that varies across cultures and historical periods. In Western societies, traditional masculine traits include strength, courage, independence, leadership, dominance, and assertiveness. However, these standards are not universal and can be influenced by cultural factors, biological factors, or both. The intersection of masculinity with other concepts, such as the social construction of gender difference, has sparked investigation in academic fields. Masculinity is also associated with denying characteristics associated with women, and its development is shaped by socialization, biology, and historical context.",
+      "composite_score": 0.7893368086144013,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "men",
+      "summary_id": "WIKI_WOMEN_HEGEMONIC_MASCULINITY_001",
+      "article_title": "Hegemonic masculinity",
+      "resolved_title": "Hegemonic masculinity",
+      "page_url": "https://en.wikipedia.org/wiki/Hegemonic_masculinity",
+      "selected_model": "llama3.1:8b",
+      "summary": "In Western society, hegemonic masculinity refers to the culturally idealized form of manhood that is socially and hierarchically exclusive. It is characterized by traits such as violence, aggression, stoicism, and competitiveness, which are often internalized by men through socialization and cultural norms. This dominant form of masculinity is built on the domination of women and a hierarchy of intermale dominance, with white, heterosexual, middle-class males holding positions of power. Hegemonic masculinity has been criticized for being heteronormative, ignoring positive aspects of masculinity, and relying on a flawed underlying concept of masculinity.",
+      "composite_score": 0.7471666625248294,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "men",
+      "summary_id": "WIKI_WOMEN_MALE_PRIVILEGE_001",
+      "article_title": "Male privilege",
+      "resolved_title": "Male privilege",
+      "page_url": "https://en.wikipedia.org/wiki/Male_privilege",
+      "selected_model": "mistral:7b",
+      "summary": "Male privilege refers to the systemic advantages and rights granted to men in patriarchal societies, where males hold primary power and predominate in roles of leadership, moral authority, social privilege, and control of property. These privileges can be positive or negative, affecting various aspects of society, including education, employment, sports, and media representation. The long-standing nature of such systems makes privilege invisible to holders, leading them to attribute their special status to individual merits rather than unearned advantages. Intersectionality is a key concept in understanding male privilege, as it acknowledges that privileges related to sex, race, social class, sexual orientation, and other forms of social classification overlap and intersect. The term \"male privilege\" does not apply to isolated instances but describes one of many systemic power structures that are interdependent and interlinked throughout societies and cultures. Men",
+      "composite_score": 0.7709363002534511,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "men",
+      "summary_id": "WIKI_WOMEN_GENDER_ROLE_001",
+      "article_title": "Gender role",
+      "resolved_title": "Gender role",
+      "page_url": "https://en.wikipedia.org/wiki/Gender_role",
+      "selected_model": "llama3.1:8b",
+      "summary": "Gender roles are social norms that vary across cultures and are often linked to essentialism, the idea that humans have attributes necessary to their identity based on gender. Sociologists distinguish between biological conceptions of sex and sociocultural understandings of gender. Gender roles can be culturally specific, with some societies recognizing more than two genders, while others are hierarchical and patriarchal. Theories such as social constructionism argue that differences in behavior are due to the social construction of gender, rather than any essential or natural predisposition.",
+      "composite_score": 0.7902449724888216,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "men",
+      "summary_id": "WIKI_WOMEN_TOXIC_MASCULINITY_001",
+      "article_title": "Toxic masculinity",
+      "resolved_title": "Toxic masculinity",
+      "page_url": "https://en.wikipedia.org/wiki/Toxic_masculinity",
+      "selected_model": "llama3.1:8b",
+      "summary": "Toxic masculinity refers to traditional cultural masculine norms that can be harmful to men, women, and society overall. These norms emphasize dominance, self-reliance, competition, and suppression of emotions, often leading to violence, aggression, and poor mental health in men. The concept is associated with increased rates of depression, stress, substance use disorders, and domestic violence. Socialization of boys from infancy onwards can promote these traits, which are also reflected in media representations of masculinity. Critics argue that the term \"toxic masculinity\" is poorly defined, essentialist, and individualizing, and may be counterproductive in addressing gender inequalities.",
+      "composite_score": 0.6991947026382112,
+      "selection_source": "automatic_composite"
+    }
+  ],
+  "women": [
+    {
+      "subgroup": "women",
+      "summary_id": "WIKI_WOMEN_MISOGYNY_001",
+      "article_title": "Misogyny",
+      "resolved_title": "Misogyny",
+      "page_url": "https://en.wikipedia.org/wiki/Misogyny",
+      "selected_model": "llama3.1:8b",
+      "summary": "Misogyny is a form of sexism that perpetuates women's subordinate status in patriarchal societies. It can manifest as hatred, contempt, or prejudice against women and girls, often operating through violence, harassment, coercion, and exclusion from full citizenship. Misogyny has been practiced for thousands of years, reflected in art, literature, and societal structures worldwide. It is not limited to individual attitudes but also operates as a cultural custom or system, influencing institutions, norms, and power dynamics.",
+      "composite_score": 0.7463196021743339,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "women",
+      "summary_id": "WIKI_WOMEN_SEXISM_001",
+      "article_title": "Sexism",
+      "resolved_title": "Sexism",
+      "page_url": "https://en.wikipedia.org/wiki/Sexism",
+      "selected_model": "llama3.1:8b",
+      "summary": "Sexism is a form of prejudice or discrimination based on one's sex or gender, primarily affecting women and girls. It is linked to gender roles and stereotypes, and can include the belief that one sex is superior to another. Sexism can manifest as hostile sexism, which involves negative attitudes towards women, or benevolent sexism, which presents positive but limiting views of women. Sociologists have found that sexism operates at both individual and institutional levels, perpetuating systems of oppression similar to racism.",
+      "composite_score": 0.8491451717905201,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "women",
+      "summary_id": "WIKI_WOMEN_PATRIARCHY_001",
+      "article_title": "Patriarchy",
+      "resolved_title": "Patriarchy",
+      "page_url": "https://en.wikipedia.org/wiki/Patriarchy",
+      "selected_model": "llama3.1:8b",
+      "summary": "Patriarchy is a social system where men hold primary positions of authority, dominating society through control over women. Sociologists attribute this to the process of socialization, which establishes gender roles and norms that serve to maintain power over women. Patriarchal ideology rationalizes inequality by attributing it to natural differences or divine commandment. Historically, patriarchal structures have developed in various cultures, often linked to the emergence of agriculture, private property, and socially stratified hierarchies.",
+      "composite_score": 0.7932959003566022,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "women",
+      "summary_id": "WIKI_WOMEN_VIOLENCE_AGAINST_WOMEN_001",
+      "article_title": "Violence against women",
+      "resolved_title": "Violence against women",
+      "page_url": "https://en.wikipedia.org/wiki/Violence_against_women",
+      "selected_model": "llama3.1:8b",
+      "summary": "Violence against women is a manifestation of historically unequal power relations between men and women, with acts of violence often used as a mechanism for subjugating women in society or interpersonal relationships. The majority of perpetrators are men, due to societal dynamics where men hold more power. Various international instruments define VAW as a violation of human rights and a form of discrimination against women, encompassing physical, sexual, psychological, and economic harm.",
+      "composite_score": 0.8281175238023128,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "women",
+      "summary_id": "WIKI_WOMEN_GENDER_INEQUALITY_001",
+      "article_title": "Gender inequality",
+      "resolved_title": "Gender inequality",
+      "page_url": "https://en.wikipedia.org/wiki/Gender_inequality",
+      "selected_model": "llama3.1:8b",
+      "summary": "Gender inequality refers to disparities between men and women in access to opportunities, resources, rights, and protections. Women and girls are often disadvantaged and marginalized due to societal influence and gender role expectations. Biological differences between the sexes exist, but research suggests that these differences combined with physical differences may be an adaptation for sexual specialization. In the workplace, income disparities linked to job stratification result in a 60-75% difference between men's and women's average aggregate wages or salaries. The remaining gap is attributed to factors such as women's lower willingness and ability to negotiate salary, direct discrimination, and occupational segregation.",
+      "composite_score": 0.7534294209376515,
+      "selection_source": "automatic_composite"
+    }
+  ],
+  "non_binary": [
+    {
+      "subgroup": "non_binary",
+      "summary_id": "WIKI_WOMEN_NON_BINARY_GENDER_001",
+      "article_title": "Non-binary gender",
+      "resolved_title": "Non-binary",
+      "page_url": "https://en.wikipedia.org/wiki/Non-binary",
+      "selected_model": "qwen2.5:7b-instruct",
+      "summary": "Non-binary identities represent genders outside the traditional male/female binary, often including those who identify as a mix of or neither gender. These identities vary widely and are associated with terms like agender, bigender, demigender, and pangender. Non-binary people may reject conventional gender norms and may receive gender-affirming care to align their identity with their experience. The term gained prominence in the 1990s through activism and has since evolved into an umbrella term for those who challenge binary gender categories.",
+      "composite_score": 0.5681088816311038,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "non_binary",
+      "summary_id": "WIKI_WOMEN_GENDERQUEER_001",
+      "article_title": "Genderqueer",
+      "resolved_title": "Non-binary",
+      "page_url": "https://en.wikipedia.org/wiki/Non-binary",
+      "selected_model": "mistral:7b",
+      "summary": "The term 'non-binary' or 'genderqueer' refers to identities that exist outside the traditional male/female binary, often falling under the transgender umbrella. Non-binary individuals may identify as an intermediate gender, multiple genders, no gender, or have a fluctuating gender identity. The term 'genderqueer', originated in the 1980s and gained prominence in the mid-1990s through activists like Riki Anne Wilchins, who used it to describe individuals deviating from traditional gender norms. 'Non-binary' became more popular in the early 2010s due to its neutral connotation compared to 'genderqueer'. The terms are often used as umbrella terms for a wide range of identities and expressions that transcend the binary gender categories of man",
+      "composite_score": 0.8887250699090549,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "non_binary",
+      "summary_id": "WIKI_WOMEN_GENDER_IDENTITY_001",
+      "article_title": "Gender identity",
+      "resolved_title": "Gender identity",
+      "page_url": "https://en.wikipedia.org/wiki/Gender_identity",
+      "selected_model": "llama3.1:8b",
+      "summary": "In most societies, a gender binary exists with expectations of masculinity and femininity in all aspects of sex and gender. However, some people do not identify with these associated attributes, identifying as transgender, non-binary, or genderqueer. Research suggests that gender identity develops rapidly in early childhood, becoming at least partially irreversible by age 3-4. The debate between nature (biological factors) and nurture (social environmental factors) influences its development, with evidence suggesting a durable biological element underlying gender identity.",
+      "composite_score": 0.8890131160368788,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "non_binary",
+      "summary_id": "WIKI_WOMEN_GENDER_DIVERSITY_001",
+      "article_title": "Gender diversity",
+      "resolved_title": "Gender diversity",
+      "page_url": "https://en.wikipedia.org/wiki/Gender_diversity",
+      "selected_model": "llama3.1:8b",
+      "summary": "The concept of gender diversity refers to the equitable representation of people of different genders, including men and women, as well as those who identify as non-binary. Traditionally male-dominated fields such as computing, engineering, medicine, and science have been a focus for promoting gender diversity initiatives. Research suggests that companies with diverse workforces are more likely to attract top talent, improve financial performance, and enhance reputation. Gender-diverse organizations also exhibit improved decision-making processes, creativity, and problem-solving abilities.",
+      "composite_score": 0.7041650761327067,
+      "selection_source": "automatic_composite"
+    },
+    {
+      "subgroup": "non_binary",
+      "summary_id": "WIKI_WOMEN_THIRD_GENDER_001",
+      "article_title": "Third gender",
+      "resolved_title": "Third gender",
+      "page_url": "https://en.wikipedia.org/wiki/Third_gender",
+      "selected_model": "mistral:7b",
+      "summary": "The concept of third gender, recognizing individuals as neither man nor woman, is present in various cultures worldwide, stemming from historical and modern developments within the LGBTQ community. This includes non-binary identities like māhū (Hawaii), hijras (South Asia), fa'afafine (Polynesia), and sworn virgins (Balkans). Cultures with third gender traditions may use them to fulfill ritual or religious roles, emphasize positive social status, or react to the devaluation of women. The term \"third gender\" is not universally understood in the same way across cultures, and its interpretation can be influenced by Western conceptual thought. In some societies, third genders are associated with spiritual abilities, while in others they may face persecution. The recognition and understanding of third gender identities have evolved over time",
+      "composite_score": 0.6109139447691225,
+      "selection_source": "automatic_composite"
+    }
+  ]
+}
